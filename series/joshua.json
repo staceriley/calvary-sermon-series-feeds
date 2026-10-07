@@ -1,0 +1,33 @@
+{
+  "slug": "joshua",
+  "feed_title": "Calvary Castle Rock \u2014 Joshua Archive",
+  "archive_url": "https://calvarycr.com/archives/joshua/",
+  "art_url": "https://calvarycr.com/wp-content/uploads/2009/11/teaching-smallBanner-joshua.jpg",
+  "author": "Pastor Dave Love / Calvary Castle Rock",
+  "description": "Unofficial RSS wrapper for the public Calvary Castle Rock Joshua teaching archive.",
+  "match_keywords": [
+    "joshua"
+  ],
+  "minimum_episode_count": 15,
+  "expected_titles": [
+    "Joshua Introduction Part 1",
+    "Joshua Introduction Part 2",
+    "Joshua 1",
+    "Joshua 2",
+    "Joshua 3",
+    "Joshua 4",
+    "Joshua 5",
+    "Joshua 6",
+    "Joshua 7",
+    "Joshua 8",
+    "Joshua 9",
+    "Joshua 10",
+    "Joshua 11",
+    "Joshua 12-14",
+    "Joshua 15-17",
+    "Joshua 18-19",
+    "Joshua 21",
+    "Joshua 22",
+    "Joshua 24"
+  ]
+}

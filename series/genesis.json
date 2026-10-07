@@ -1,0 +1,15 @@
+{
+  "slug": "genesis",
+  "feed_title": "Calvary Castle Rock \u2014 Genesis Archive",
+  "archive_url": "https://calvarycr.com/archives/genesis-2/",
+  "art_url": "https://calvarycr.com/wp-content/uploads/2021/01/Genesis-01-700x394.jpg",
+  "author": "Pastor Dave Love / Calvary Castle Rock",
+  "description": "Unofficial RSS wrapper for the public Calvary Castle Rock Genesis teaching archive.",
+  "match_keywords": [
+    "genesis",
+    "dispensations",
+    "jacob i have loved"
+  ],
+  "minimum_episode_count": 60,
+  "expected_titles": []
+}

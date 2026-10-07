@@ -1,0 +1,16 @@
+{
+  "slug": "exodus",
+  "feed_title": "Calvary Castle Rock \u2014 Exodus Archive",
+  "archive_url": "https://calvarycr.com/archives/exodus2023/",
+  "art_url": "https://calvarycr.com/wp-content/uploads/2023/02/Exodus-intor-for-slides-700x441.jpg",
+  "author": "Pastor Dave Love / Calvary Castle Rock",
+  "description": "Unofficial RSS wrapper for the public Calvary Castle Rock Exodus teaching archive.",
+  "match_keywords": [
+    "exodus",
+    "feasts of the lord",
+    "levitical offerings",
+    "slavery part 3"
+  ],
+  "minimum_episode_count": 80,
+  "expected_titles": []
+}

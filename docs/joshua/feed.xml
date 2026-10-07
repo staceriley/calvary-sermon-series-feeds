@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Calvary Castle Rock — Joshua Archive</title>
+    <link>https://calvarycr.com/archives/joshua/</link>
+    <description>Unofficial RSS wrapper for the public Calvary Castle Rock Joshua teaching archive.</description>
+    <language>en-us</language>
+    <image>
+      <url>https://calvarycr.com/wp-content/uploads/2009/11/teaching-smallBanner-joshua.jpg</url>
+      <title>Calvary Castle Rock — Joshua Archive</title>
+      <link>https://calvarycr.com/archives/joshua/</link>
+    </image>
+    <itunes:image href="https://calvarycr.com/wp-content/uploads/2009/11/teaching-smallBanner-joshua.jpg"/>
+    <itunes:author>Pastor Dave Love / Calvary Castle Rock</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>Joshua 24</title>
+      <link>https://calvarycr.com/joshua-24/</link>
+      <guid isPermaLink="false">93450621b14e50c20ea7cf0a2c0c254b4e1f3967cee1165b5eeb5f0843bd90cb</guid>
+      <pubDate>Wed, 11 Nov 2009 07:00:00 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/joshua-24/</description>
+      <enclosure url="https://calvarycr.com/abiding/joshua/111109h.mp3?_=1" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Joshua 22</title>
+      <link>https://calvarycr.com/joshua-22/</link>
+      <guid isPermaLink="false">4916e0a40feee085fc303f1f2d600833c31d07258f92e66438c53ecc176907a5</guid>
+      <pubDate>Wed, 30 Sep 2009 06:00:00 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/joshua-22/</description>
+      <enclosure url="https://calvarycr.com/abiding/joshua/093009h.mp3?_=1" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Joshua 21</title>
+      <link>https://calvarycr.com/joshua-21/</link>
+      <guid isPermaLink="false">7fba3919b7b6b9fe825ff7208f18c2eddac47edea249430617629db029fe9503</guid>
+      <pubDate>Wed, 16 Sep 2009 06:00:00 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/joshua-21/</description>
+      <enclosure url="https://calvarycr.com/abiding/joshua/091609h.mp3?_=1" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Joshua 18-19</title>
+      <link>https://calvarycr.com/joshua-18-19/</link>
+      <guid isPermaLink="false">c1e0feca35df14f655fb83d8b18133344f7b60ca0b1d10b81c5957a4f3e8409a</guid>
+      <pubDate>Wed, 17 Jun 2009 06:00:00 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/joshua-18-19/</description>
+      <enclosure url="https://calvarycr.com/abiding/joshua/061709h.mp3?_=1" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Joshua 15-17</title>
+      <link>https://calvarycr.com/joshua-15-17/</link>
+      <guid isPermaLink="false">d20aad661a2cf814b466ffd1059b0ae985ae0c46ac9b2e4bd3fc1d298cf8360d</guid>
+      <pubDate>Wed, 10 Jun 2009 06:00:00 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/joshua-15-17/</description>
+      <enclosure url="https://calvarycr.com/abiding/joshua/061009h.mp3?_=1" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Joshua 12-14</title>
+      <link>https://calvarycr.com/joshua-12-14/</link>
+      <guid isPermaLink="false">b80da3b07a9a22d09777463bbbaa212d03b24a47bfbf52ac731776a0bc0e785a</guid>
+      <pubDate>Wed, 27 May 2009 06:00:00 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/joshua-12-14/</description>
+      <enclosure url="https://calvarycr.com/abiding/joshua/052709h.mp3?_=1" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Joshua 11</title>
+      <link>https://calvarycr.com/joshua-11/</link>
+      <guid isPermaLink="false">1667939c3cc3403f192dd14a8a1dcaa445a2b3a12e0745b3bfdd8b1d88b6d6fb</guid>
+      <pubDate>Wed, 20 May 2009 06:00:00 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/joshua-11/</description>
+      <enclosure url="https://calvarycr.com/abiding/joshua/052009h.mp3?_=1" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Joshua 10</title>
+      <link>https://calvarycr.com/joshua-10/</link>
+      <guid isPermaLink="false">14ec8aec7ec2c0c349fbe0b298295e01e6e47aa4b57f9c844062da89ade3d1ab</guid>
+      <pubDate>Wed, 06 May 2009 06:00:00 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/joshua-10/</description>
+      <enclosure url="https://calvarycr.com/abiding/joshua/050609h.mp3?_=1" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Joshua 9</title>
+      <link>https://calvarycr.com/joshua-9/</link>
+      <guid isPermaLink="false">6e174b8a94f884f8647f2f3d7798c5466fe43f677b6514be4886f9c0addb3fbc</guid>
+      <pubDate>Wed, 29 Apr 2009 06:00:00 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/joshua-9/</description>
+      <enclosure url="https://calvarycr.com/abiding/joshua/042909h.mp3?_=1" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Joshua 8</title>
+      <link>https://calvarycr.com/joshua-8/</link>
+      <guid isPermaLink="false">8752ccdb2b777f576713fa85c9805e0f9e960a5a9784eea4be95c1edd1949331</guid>
+      <pubDate>Wed, 22 Apr 2009 06:00:00 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/joshua-8/</description>
+      <enclosure url="https://calvarycr.com/abiding/joshua/042209h.mp3?_=1" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Joshua 7</title>
+      <link>https://calvarycr.com/joshua-7/</link>
+      <guid isPermaLink="false">5acb116d8890808e5912ac2f9cd29bc0cb9241e46bd4d263dc7ac62a09c7e662</guid>
+      <pubDate>Wed, 15 Apr 2009 06:00:00 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/joshua-7/</description>
+      <enclosure url="https://calvarycr.com/abiding/joshua/041509h.mp3?_=1" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Joshua 6</title>
+      <link>https://calvarycr.com/joshua-6/</link>
+      <guid isPermaLink="false">cd23cfd5085ed83839b1d7aeda0df5b40845386ab46c37ccb8f1b90891503337</guid>
+      <pubDate>Wed, 25 Mar 2009 06:00:00 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/joshua-6/</description>
+      <enclosure url="https://calvarycr.com/abiding/joshua/032509h.mp3?_=1" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Joshua 5</title>
+      <link>https://calvarycr.com/joshua-5/</link>
+      <guid isPermaLink="false">6b304b1339ad5f46cdd483b8d5a9241234a2ed6ba117e092bb57bf07242e8301</guid>
+      <pubDate>Wed, 18 Mar 2009 06:00:00 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/joshua-5/</description>
+      <enclosure url="https://calvarycr.com/abiding/joshua/031809h.mp3?_=1" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Joshua 4</title>
+      <link>https://calvarycr.com/joshua-4/</link>
+      <guid isPermaLink="false">b9972483579f77ffd2f7b9f5fa383a5a661cd30b5f2e0f68294a36060c607663</guid>
+      <pubDate>Wed, 11 Mar 2009 06:00:00 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/joshua-4/</description>
+      <enclosure url="https://calvarycr.com/abiding/joshua/031109h.mp3?_=1" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Joshua 3</title>
+      <link>https://calvarycr.com/joshua-3/</link>
+      <guid isPermaLink="false">5c2c7f81e71995af9bb1bbc821cd1f1e1f8a0339dbf93618c0d5df637bf44076</guid>
+      <pubDate>Wed, 04 Mar 2009 07:00:00 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/joshua-3/</description>
+      <enclosure url="https://calvarycr.com/abiding/joshua/030409h.mp3?_=1" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Joshua 2</title>
+      <link>https://calvarycr.com/joshua-2/</link>
+      <guid isPermaLink="false">fbac6b1ad55b990ada6e8ae0ebfe19ee6d60ada6f8495e323c5292b1b121d64a</guid>
+      <pubDate>Wed, 25 Feb 2009 07:00:00 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/joshua-2/</description>
+      <enclosure url="https://calvarycr.com/abiding/joshua/022509h.mp3?_=1" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Joshua 1</title>
+      <link>https://calvarycr.com/joshua-1/</link>
+      <guid isPermaLink="false">431e5f4b7c9e004a5a59211d29a06ef74d179c3a7a4c4b2746485ecf22b6e769</guid>
+      <pubDate>Wed, 18 Feb 2009 07:00:00 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/joshua-1/</description>
+      <enclosure url="https://calvarycr.com/abiding/joshua/021809h.mp3?_=1" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Joshua Introduction Part 2</title>
+      <link>https://calvarycr.com/joshua-introduction-part-2/</link>
+      <guid isPermaLink="false">873f0b87bedda209090ce2a1dc513fc1cd36c0c558b29236fb7375eda30baa8c</guid>
+      <pubDate>Wed, 28 Jan 2009 07:00:00 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/joshua-introduction-part-2/</description>
+      <enclosure url="https://calvarycr.com/abiding/joshua/012809h.mp3?_=1" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Joshua Introduction Part 1</title>
+      <link>https://calvarycr.com/joshua-introduction-part-1/</link>
+      <guid isPermaLink="false">dcbbabdc57fc56d4f9ac630ab9d5572baf0afa7ad44d8080496dfddd591d233c</guid>
+      <pubDate>Wed, 21 Jan 2009 07:00:00 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/joshua-introduction-part-1/</description>
+      <enclosure url="https://calvarycr.com/abiding/joshua/012109h.mp3?_=1" length="0" type="audio/mpeg"/>
+    </item>
+  </channel>
+</rss>

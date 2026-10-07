@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Calvary Castle Rock — Exodus Archive</title>
+    <link>https://calvarycr.com/archives/exodus2023/</link>
+    <description>Unofficial RSS wrapper for the public Calvary Castle Rock Exodus teaching archive.</description>
+    <language>en-us</language>
+    <image>
+      <url>https://calvarycr.com/wp-content/uploads/2023/02/Exodus-intor-for-slides-700x441.jpg</url>
+      <title>Calvary Castle Rock — Exodus Archive</title>
+      <link>https://calvarycr.com/archives/exodus2023/</link>
+    </image>
+    <itunes:image href="https://calvarycr.com/wp-content/uploads/2023/02/Exodus-intor-for-slides-700x441.jpg"/>
+    <itunes:author>Pastor Dave Love / Calvary Castle Rock</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>Exodus 40</title>
+      <link>https://calvarycr.com/exodus-40/</link>
+      <guid isPermaLink="false">691cb222fb1192165d65cdc38edf3c46b3d2ddff396505358f3475fb5f274d6f</guid>
+      <pubDate>Sun, 23 Nov 2025 19:36:30 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/exodus-40/</description>
+      <enclosure url="https://www.calvarycr.com/abiding/exodus2023/20251123.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Exodus 38:21-31; Exodus 39</title>
+      <link>https://calvarycr.com/exodus-3821-31-exodus-39/</link>
+      <guid isPermaLink="false">e3de585a8134611b784fb1bcab8bf8b452b4d5de4f4bd968b488e2574905c9b5</guid>
+      <pubDate>Sun, 16 Nov 2025 20:25:20 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/exodus-3821-31-exodus-39/</description>
+      <enclosure url="https://www.calvarycr.com/abiding/exodus2023/20251116.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Exodus 38</title>
+      <link>https://calvarycr.com/exodus-38/</link>
+      <guid isPermaLink="false">d9c2fb787ae9c26efa1f8d3c3788df8ba6ce52db2eefa61e1e575f0aacd2c689</guid>
+      <pubDate>Thu, 23 Oct 2025 00:05:15 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/exodus-38/</description>
+      <enclosure url="https://www.calvarycr.com/abiding/exodus2023/20251019.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Exodus 37</title>
+      <link>https://calvarycr.com/exodus-37/</link>
+      <guid isPermaLink="false">edb428d0fcbf6c0a695b1aa095f72c4071bb5ca938d867e97f76e43a78e60dac</guid>
+      <pubDate>Sun, 12 Oct 2025 20:21:10 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/exodus-37/</description>
+      <enclosure url="https://www.calvarycr.com/abiding/exodus2023/20251012.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Exodus 36</title>
+      <link>https://calvarycr.com/exodus-36/</link>
+      <guid isPermaLink="false">05a0bc91a76eea1d73ac6bc2ea0ec4e11b49b66b8b91db1f38210aff66f26a8f</guid>
+      <pubDate>Sun, 05 Oct 2025 22:34:38 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/exodus-36/</description>
+      <enclosure url="https://www.calvarycr.com/abiding/exodus2023/20251005.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Exodus 35</title>
+      <link>https://calvarycr.com/exodus-35/</link>
+      <guid isPermaLink="false">4bad6fc500ea47d2c65ff2611ff607051f23bb7e054cf9ed7c7ab2653540b13f</guid>
+      <pubDate>Sun, 28 Sep 2025 21:54:34 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/exodus-35/</description>
+      <enclosure url="https://www.calvarycr.com/abiding/exodus2023/20250928.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Exodus 34:29-35</title>
+      <link>https://calvarycr.com/exodus-3429-35/</link>
+      <guid isPermaLink="false">ba10a4b8b8b99d3b1a84d6036a2d772225c163fb7e052bbd0c8323db1f27e6f2</guid>
+      <pubDate>Sun, 21 Sep 2025 16:43:18 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/exodus-3429-35/</description>
+      <enclosure url="https://www.calvarycr.com/abiding/exodus2023/20250921.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Exodus 34:10-28</title>
+      <link>https://calvarycr.com/exodus-34-10-28/</link>
+      <guid isPermaLink="false">349d407c6e0ed71f55779c3b4ca9250994e9af8aa221ea35967a5b55a25be72d</guid>
+      <pubDate>Sun, 14 Sep 2025 18:53:50 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/exodus-34-10-28/</description>
+      <enclosure url="https://www.calvarycr.com/abiding/exodus2023/20250914.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Exodus 34</title>
+      <link>https://calvarycr.com/exodus-34/</link>
+      <guid isPermaLink="false">99a8991eabaecc1655021b391dcea164d511ff9094b876025a75e216dca7a5be</guid>
+      <pubDate>Sun, 31 Aug 2025 17:28:24 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/exodus-34/</description>
+      <enclosure url="https://www.calvarycr.com/abiding/exodus2023/20250831.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Exodus 33-12-23</title>
+      <link>https://calvarycr.com/exodus-33-12-23/</link>
+      <guid isPermaLink="false">9774b7eac0db3644409d2c2bc19df583329fbcf2be93971f10aa3f020d1cd993</guid>
+      <pubDate>Sun, 24 Aug 2025 18:04:18 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/exodus-33-12-23/</description>
+      <enclosure url="https://www.calvarycr.com/abiding/exodus2023/20250824.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Exodus 32:30-35; 33:1-17</title>
+      <link>https://calvarycr.com/exodus-3230-35-331-17/</link>
+      <guid isPermaLink="false">01fd6759ec468ae859542b2a97be82d5843d1ae4202b06e524a9738067360a22</guid>
+      <pubDate>Fri, 08 Aug 2025 18:30:18 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/exodus-3230-35-331-17/</description>
+      <enclosure url="https://www.calvarycr.com/abiding/exodus2023/20250803.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Exodus 32 – The Golden Calf – Part 3</title>
+      <link>https://calvarycr.com/exodus-32-the-golden-calf-part-3/</link>
+      <guid isPermaLink="false">38b0c51cc1113babd1837e398fc710ddb01e980dba48ab8fa625b91d7437bb6d</guid>
+      <pubDate>Sun, 27 Jul 2025 19:15:09 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/exodus-32-the-golden-calf-part-3/</description>
+      <enclosure url="https://www.calvarycr.com/abiding/exodus2023/20250727.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Exodus 32:6-24 – The Golden Calf – Part 2</title>
+      <link>https://calvarycr.com/exodus-326-24-the-golden-calf-part-2/</link>
+      <guid isPermaLink="false">d2edb5cf15ba195a9e07e043595401ba13d9d149613a9962f40a22f240dd9366</guid>
+      <pubDate>Sun, 20 Jul 2025 18:41:15 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/exodus-326-24-the-golden-calf-part-2/</description>
+      <enclosure url="https://www.calvarycr.com/abiding/exodus2023/20250720.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Exodus 32:1-11 – The Golden Calf – Part 1</title>
+      <link>https://calvarycr.com/exodus-321-11-the-golden-calf-part-1/</link>
+      <guid isPermaLink="false">6baef88cba623b468bb5b20067c14f7f3641b90690c6c9aeab8ae2e49d8451fb</guid>
+      <pubDate>Sun, 06 Jul 2025 18:43:31 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/exodus-321-11-the-golden-calf-part-1/</description>
+      <enclosure url="https://www.calvarycr.com/abiding/exodus2023/20250706.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Exodus 31:1-18</title>
+      <link>https://calvarycr.com/exodus-31-1-18/</link>
+      <guid isPermaLink="false">e68b9ad69d4e7f3d98ecd882078500f2da2e1ff61306e09e0ed5c0adf62637a8</guid>
+      <pubDate>Sun, 29 Jun 2025 18:44:41 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/exodus-31-1-18/</description>
+      <enclosure url="https://www.calvarycr.com/abiding/exodus2023/20250629.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Exodus 30:22-33</title>
+      <link>https://calvarycr.com/exodus-3022-33/</link>
+      <guid isPermaLink="false">2c0d2a4ea166194085603ff098f3400c068e21868c003d6725d85db0f09d6b0d</guid>
+      <pubDate>Sun, 15 Jun 2025 17:24:33 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/exodus-3022-33/</description>
+      <enclosure url="https://www.calvarycr.com/abiding/exodus2023/20250615.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Exodus 30:11-33</title>
+      <link>https://calvarycr.com/exodus-30_11-33/</link>
+      <guid isPermaLink="false">ad871da4ce02b5c46d804cedb6f7e191e5477703ac1ce9de806ac06c1a206a25</guid>
+      <pubDate>Sun, 08 Jun 2025 18:41:09 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/exodus-30_11-33/</description>
+      <enclosure url="https://www.calvarycr.com/abiding/exodus2023/20250608.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Exodus 30:1-10;34-38 – Golden Altar of Incense</title>
+      <link>https://calvarycr.com/exodus-301-1034-38-golden-altar-of-incense/</link>
+      <guid isPermaLink="false">989b944d85e60210c47fd7eee3e29c77ce7109e1bbb17bf43f75a0e0468f43f6</guid>
+      <pubDate>Sun, 01 Jun 2025 20:30:02 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/exodus-301-1034-38-golden-altar-of-incense/</description>
+      <enclosure url="https://www.calvarycr.com/abiding/exodus2023/20250601.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>The Levitical Offerings Part 4 – The Trespass Offering</title>
+      <link>https://calvarycr.com/the-levitical-offerings-part-4-the-trespass-offering/</link>
+      <guid isPermaLink="false">b4224231e122f1b6664c648dca43ba8e9b0b7148de5b057b560226de51a1d0f4</guid>
+      <pubDate>Sun, 25 May 2025 19:11:52 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/the-levitical-offerings-part-4-the-trespass-offering/</description>
+      <enclosure url="https://www.calvarycr.com/abiding/exodus2023/20250525.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>The Levitical Offerings Part 3 – The Sin Offering</title>
+      <link>https://calvarycr.com/the-levitical-offerings-part-3-the-sin-offering/</link>
+      <guid isPermaLink="false">76a46c263aec8a4f3c1e876b622378ab276d0d99aa2ec8705def6318d24f3f46</guid>
+      <pubDate>Sun, 18 May 2025 19:02:54 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/the-levitical-offerings-part-3-the-sin-offering/</description>
+      <enclosure url="https://www.calvarycr.com/abiding/exodus2023/20250518.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>The Levitical Offerings Part 2 – The Peace Offering</title>
+      <link>https://calvarycr.com/the-levitical-offerings-part-2-the-peace-offering/</link>
+      <guid isPermaLink="false">c573a742175dd636fbbf38dcebe098e568f4639283710eb3a112526156fb6f53</guid>
+      <pubDate>Sun, 11 May 2025 19:13:41 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/the-levitical-offerings-part-2-the-peace-offering/</description>
+      <enclosure url="https://www.calvarycr.com/abiding/exodus2023/20250511.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Five offerings of Leviticus (Part 1)</title>
+      <link>https://calvarycr.com/five-offerings-of-leviticus-part-1/</link>
+      <guid isPermaLink="false">9e7782c508f0dcbbf977be8ded3f47344b0f24a2dd4bf3373bb4628ed60fc927</guid>
+      <pubDate>Sun, 04 May 2025 19:42:52 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/five-offerings-of-leviticus-part-1/</description>
+      <enclosure url="https://www.calvarycr.com/abiding/exodus2023/20250504.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Exodus 29:19-46</title>
+      <link>https://calvarycr.com/exodus-2919-46-2/</link>
+      <guid isPermaLink="false">a8025b69daa7664e4682e7cc3f98ff5ef9b1749bb65563f0ec2dba53a89fbd4d</guid>
+      <pubDate>Sun, 13 Apr 2025 18:35:03 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/exodus-2919-46-2/</description>
+      <enclosure url="https://www.calvarycr.com/abiding/exodus2023/20250413.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Exodus 29:1-22</title>
+      <link>https://calvarycr.com/exodus-291-22/</link>
+      <guid isPermaLink="false">711f34f8edb88c9e0ad2960e9ae97250fa260e41492d3cef2cee694ec33f7796</guid>
+      <pubDate>Sun, 06 Apr 2025 20:22:57 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/exodus-291-22/</description>
+      <enclosure url="https://www.calvarycr.com/abiding/exodus2023/20250406.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Exodus 28:36-43</title>
+      <link>https://calvarycr.com/exodus-2836-43/</link>
+      <guid isPermaLink="false">0480c14802966450e95f685ad99a7f5bb4deaeaa644f651e99e702425378daf3</guid>
+      <pubDate>Sun, 30 Mar 2025 23:29:40 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/exodus-2836-43/</description>
+      <enclosure url="https://www.calvarycr.com/abiding/exodus2023/20250330.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Exodus 28:30-35</title>
+      <link>https://calvarycr.com/exodus-2830-35/</link>
+      <guid isPermaLink="false">164fd1441477d2095620f7946bd31f917ca524b5cd472972d47ff2125abce43a</guid>
+      <pubDate>Sun, 23 Mar 2025 18:33:51 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/exodus-2830-35/</description>
+      <enclosure url="https://www.calvarycr.com/abiding/exodus2023/20250323.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Exodus 28 vs 15-29 – The Breastplate</title>
+      <link>https://calvarycr.com/exodus-28-vs-15-29-the-breastplate/</link>
+      <guid isPermaLink="false">3b0f143970c2fa887986cd9411dc16e85a4090ac3bb47d706a3eb3df2eb1a76f</guid>
+      <pubDate>Sun, 16 Mar 2025 19:22:25 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/exodus-28-vs-15-29-the-breastplate/</description>
+      <enclosure url="https://www.calvarycr.com/abiding/exodus2023/20250316.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Exodus 28 – The Ephod</title>
+      <link>https://calvarycr.com/exodus-28-the-ephod/</link>
+      <guid isPermaLink="false">5c3f2bdcf8aaf4336d6b270cc1906846edd76bb743470005dbf41916993fc97e</guid>
+      <pubDate>Sun, 09 Mar 2025 19:00:57 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/exodus-28-the-ephod/</description>
+      <enclosure url="https://www.calvarycr.com/abiding/exodus2023/20250309.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Exodus 27 – The Outer Court</title>
+      <link>https://calvarycr.com/exodus-27-the-outer-court/</link>
+      <guid isPermaLink="false">46571a01479ba46dc751cfb42bb3fe72b944e8c027e336d0fb68808b554f3e73</guid>
+      <pubDate>Sun, 02 Mar 2025 20:22:15 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/exodus-27-the-outer-court/</description>
+      <enclosure url="https://www.calvarycr.com/abiding/exodus2023/20250302.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Exodus 27 – The Brazen Altar</title>
+      <link>https://calvarycr.com/exodus-27-the-brazen-altar/</link>
+      <guid isPermaLink="false">80794b0ad24ea28615e01b5af304307d0845160167f14a5b9cfdfad5ec233af0</guid>
+      <pubDate>Sun, 16 Feb 2025 20:04:01 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/exodus-27-the-brazen-altar/</description>
+      <enclosure url="https://www.calvarycr.com/abiding/exodus2023/20250216.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Exodus 26 – The Tabernacle</title>
+      <link>https://calvarycr.com/exodus-26-the-tabernacle/</link>
+      <guid isPermaLink="false">2f36e81e8cc5b6fdd71d2551de72999086fd7fde66c9d71a10d3c810c5bcf989</guid>
+      <pubDate>Sun, 02 Feb 2025 20:39:53 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/exodus-26-the-tabernacle/</description>
+      <enclosure url="https://www.calvarycr.com/abiding/exodus2023/20250202.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Exodus 25:31-40 – The Golden Lampstand</title>
+      <link>https://calvarycr.com/exodus-2531-40-the-golden-lampstand/</link>
+      <guid isPermaLink="false">d174077abdead1f9a39c0ceb961c1e734580ea6e6e8fceecd1a5a628ac35d76f</guid>
+      <pubDate>Sun, 26 Jan 2025 20:20:56 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/exodus-2531-40-the-golden-lampstand/</description>
+      <enclosure url="https://www.calvarycr.com/abiding/exodus2023/20250126.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Exodus 25:23-30 – Table Of Showbread</title>
+      <link>https://calvarycr.com/exodus-25-23-30-table-of-showbread/</link>
+      <guid isPermaLink="false">4c6aa9f65bd36175903a200265ee22b0f21eb803339431f9a4813d1ecbe4793a</guid>
+      <pubDate>Sun, 12 Jan 2025 19:48:16 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/exodus-25-23-30-table-of-showbread/</description>
+      <enclosure url="https://www.calvarycr.com/abiding/exodus2023/20250112.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Exodus 25:17-22 – Mercy Seat</title>
+      <link>https://calvarycr.com/exodus-2517-22-mercy-seat/</link>
+      <guid isPermaLink="false">0c3ba868c759714b9f013c455ce502246ff2c23ff2f13a6ac523783aca5a7a28</guid>
+      <pubDate>Sun, 05 Jan 2025 20:15:27 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/exodus-2517-22-mercy-seat/</description>
+      <enclosure url="https://www.calvarycr.com/abiding/exodus2023/20250105.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Exodus 25:1-22</title>
+      <link>https://calvarycr.com/exodus-251-22-2/</link>
+      <guid isPermaLink="false">b9486afc4830a5a7fa3aa2516b892c568fbc78158b3c18b162fe00a58a0ca9d7</guid>
+      <pubDate>Wed, 04 Dec 2024 01:01:52 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/exodus-251-22-2/</description>
+      <enclosure url="https://www.calvarycr.com/abiding/exodus2023/20241201.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Exodus 24</title>
+      <link>https://calvarycr.com/exodus-24-1-18/</link>
+      <guid isPermaLink="false">70d59b471d53c192c3670f1c482cd120e0f39f24055c8fa2ce49881fe27c6058</guid>
+      <pubDate>Sun, 24 Nov 2024 22:00:49 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/exodus-24-1-18/</description>
+      <enclosure url="https://www.calvarycr.com/abiding/exodus2023/20241124.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Exodus 23:19-33</title>
+      <link>https://calvarycr.com/exodus-2319-33/</link>
+      <guid isPermaLink="false">3637e7f991ee7b06bd55cab849a5030c4da8035f8a6dd77604773574d159467d</guid>
+      <pubDate>Sun, 17 Nov 2024 20:00:05 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/exodus-2319-33/</description>
+      <enclosure url="https://www.calvarycr.com/abiding/exodus2023/20241117.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Feasts of the LORD – Part 6</title>
+      <link>https://calvarycr.com/feasts-of-the-lord-part-6/</link>
+      <guid isPermaLink="false">bee3513c85ac72a5de22e1fea11463606fd45394f430ab61e6ae729891e5ca3b</guid>
+      <pubDate>Tue, 12 Nov 2024 20:54:02 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/feasts-of-the-lord-part-6/</description>
+      <enclosure url="https://www.calvarycr.com/abiding/exodus2023/20241110.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Feasts of the LORD – Part 5</title>
+      <link>https://calvarycr.com/feasts-of-the-lord-part-5/</link>
+      <guid isPermaLink="false">055279b3c04b356ba567a090e628a3e3003b056d1cc30d91d618bdcc07472809</guid>
+      <pubDate>Sun, 03 Nov 2024 19:32:54 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/feasts-of-the-lord-part-5/</description>
+      <enclosure url="https://www.calvarycr.com/abiding/exodus2023/20241103.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Feasts of the LORD – Part 4</title>
+      <link>https://calvarycr.com/feasts-of-the-lord-part-4/</link>
+      <guid isPermaLink="false">6e3509046a48dea55cf5bacb79354f918f6e7a798e15c5eb13aca52ada8ba1fb</guid>
+      <pubDate>Thu, 31 Oct 2024 14:31:56 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/feasts-of-the-lord-part-4/</description>
+      <enclosure url="https://www.calvarycr.com/abiding/exodus2023/20241027.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Feasts of the LORD – Part 3</title>
+      <link>https://calvarycr.com/feasts-of-the-lord-part-3/</link>
+      <guid isPermaLink="false">bbac7b20db4234143fa3cf747c93768c990593371cfa79092da83c7ddda14332</guid>
+      <pubDate>Sun, 06 Oct 2024 19:14:01 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/feasts-of-the-lord-part-3/</description>
+      <enclosure url="https://www.calvarycr.com/abiding/exodus2023/20241006.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Feasts of the LORD – Part 2</title>
+      <link>https://calvarycr.com/feasts-of-the-lord-part-2/</link>
+      <guid isPermaLink="false">b4ca68d649dc8e07bc3ded9571d09c295a2445fc1096930d79d13476af7c4eee</guid>
+      <pubDate>Sun, 29 Sep 2024 18:39:20 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/feasts-of-the-lord-part-2/</description>
+      <enclosure url="https://www.calvarycr.com/abiding/exodus2023/20240929.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Feasts of the LORD – Part 1</title>
+      <link>https://calvarycr.com/exodus-23-14-19/</link>
+      <guid isPermaLink="false">0f434aa5fa3c962fc8eb7388e894d75c22b2ce5d6a718b7ec26220b672359005</guid>
+      <pubDate>Sun, 22 Sep 2024 19:00:39 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/exodus-23-14-19/</description>
+      <enclosure url="https://www.calvarycr.com/abiding/exodus2023/20240922.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Exodus 22:21-31; 23:1-13</title>
+      <link>https://calvarycr.com/exodus-2221-31-231-13/</link>
+      <guid isPermaLink="false">fb7ea9306be160f542844b721000817908933c052da7754090008e747497bfea</guid>
+      <pubDate>Mon, 16 Sep 2024 20:18:19 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/exodus-2221-31-231-13/</description>
+      <enclosure url="https://www.calvarycr.com/abiding/exodus2023/20240915.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Exodus 22:18-31</title>
+      <link>https://calvarycr.com/exodus-2218-31/</link>
+      <guid isPermaLink="false">9add799c4a0ef3f0309e948b568eae037e0d31688da13eef2c6075f70da350cb</guid>
+      <pubDate>Sun, 08 Sep 2024 18:31:55 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/exodus-2218-31/</description>
+      <enclosure url="https://www.calvarycr.com/abiding/exodus2023/20240908.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Exodus 21:22,29-36</title>
+      <link>https://calvarycr.com/exodus-21-22_29-36/</link>
+      <guid isPermaLink="false">89e311980b5bd47b0d5fc43befc5265367ed06c1a5a0335db1425a89324790b7</guid>
+      <pubDate>Sun, 01 Sep 2024 19:10:31 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/exodus-21-22_29-36/</description>
+      <enclosure url="https://www.calvarycr.com/abiding/exodus2023/20240901.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Slavery Part 3</title>
+      <link>https://calvarycr.com/slavery-part-3/</link>
+      <guid isPermaLink="false">7e2d06dae4aa1b60585d33e98ba5225d2ab9f78792b48e3f6f560a25878fead1</guid>
+      <pubDate>Sun, 25 Aug 2024 21:36:42 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/slavery-part-3/</description>
+      <enclosure url="https://www.calvarycr.com/abiding/exodus2023/20240825.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Exodus 21 – Servitude vs Slavery</title>
+      <link>https://calvarycr.com/exodus-21-servitude-vs-slavery/</link>
+      <guid isPermaLink="false">25b54548903089868b1fdfc22cce50d3cefdc0060fd22bbab0dec9f8b35ffe16</guid>
+      <pubDate>Sun, 18 Aug 2024 18:44:01 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/exodus-21-servitude-vs-slavery/</description>
+      <enclosure url="https://www.calvarycr.com/abiding/exodus2023/20240818.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Exodus 20:22-21:2 Servitude or Slavery</title>
+      <link>https://calvarycr.com/exodus-2022-26-21-1-2-servitude-or-slavery/</link>
+      <guid isPermaLink="false">b8ed3adb4019d2eb87a3c700f223693cd42c4d9c239ac592f2c70a8b1cd56d21</guid>
+      <pubDate>Sun, 11 Aug 2024 19:02:14 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/exodus-2022-26-21-1-2-servitude-or-slavery/</description>
+      <enclosure url="https://www.calvarycr.com/abiding/exodus2023/20240811.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Exodus 20:18-21</title>
+      <link>https://calvarycr.com/exodus-2018-21/</link>
+      <guid isPermaLink="false">fccf402407ffd16ae9751880494a1343df4366a0c8d34691a8a27fbbefa20042</guid>
+      <pubDate>Sun, 04 Aug 2024 18:32:57 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/exodus-2018-21/</description>
+      <enclosure url="https://www.calvarycr.com/abiding/exodus2023/20240804.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Exodus 20:17 – The 10th Commandment – You shall not covet…</title>
+      <link>https://calvarycr.com/exodus-2017-the-10th-commandment-you-shall-not-covet/</link>
+      <guid isPermaLink="false">37fc329f55fc9f01de9d08781509481a4a08e0b811ce383affc0670b2850d6c3</guid>
+      <pubDate>Sun, 28 Jul 2024 20:25:11 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/exodus-2017-the-10th-commandment-you-shall-not-covet/</description>
+      <enclosure url="https://www.calvarycr.com/abiding/exodus/20240728.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Exodus 20:16 – The 9th Commandment – You shall not bear false witness…</title>
+      <link>https://calvarycr.com/exodus-2016-the-9th-commandment-you-shall-not-bear-false-witness/</link>
+      <guid isPermaLink="false">461ca892055e91d2454e599aaf3180f21ef345d042034bac0f8f0c7b9aad998e</guid>
+      <pubDate>Sun, 21 Jul 2024 19:04:25 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/exodus-2016-the-9th-commandment-you-shall-not-bear-false-witness/</description>
+      <enclosure url="https://www.calvarycr.com/abiding/exodus2023/20240721.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Exodus 20:15 – The 8th Commandment – You shall not steal</title>
+      <link>https://calvarycr.com/exodus-2015-the-8th-commandment-you-shall-not-steal/</link>
+      <guid isPermaLink="false">da3b7e5f1bf84dd2d86c97b35e9f33249a417a9796d688a6054af183d0b39b25</guid>
+      <pubDate>Sun, 07 Jul 2024 19:04:44 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/exodus-2015-the-8th-commandment-you-shall-not-steal/</description>
+      <enclosure url="https://www.calvarycr.com/abiding/exodus2023/20240707.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Exodus 20:14 – 7th Commandment – Part 2</title>
+      <link>https://calvarycr.com/exodus-2014-7th-commandment-part-2/</link>
+      <guid isPermaLink="false">1478f61fd8a954aef4ac9d75cdb25a86c0c1eebf56a63f2929ac6516b119f3fc</guid>
+      <pubDate>Sun, 23 Jun 2024 20:30:23 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/exodus-2014-7th-commandment-part-2/</description>
+      <enclosure url="https://www.calvarycr.com/abiding/exodus2023/20240623.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Exodus 20:14 – 7th Commandment – Part 1</title>
+      <link>https://calvarycr.com/exodus-2014-7th-commandment-part-1/</link>
+      <guid isPermaLink="false">6d3904d15bce9ca588fcc0aec3645d13c74a1019d6b504c460d42693ba2edd71</guid>
+      <pubDate>Sun, 16 Jun 2024 17:55:12 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/exodus-2014-7th-commandment-part-1/</description>
+      <enclosure url="https://www.calvarycr.com/abiding/exodus2023/20240616.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Exodus 20:13 – 6th Commandment – Part 2</title>
+      <link>https://calvarycr.com/exodus-2013-6th-commandment-part-2/</link>
+      <guid isPermaLink="false">ecae3245f99447502952909f47c46f49927e3d9a2b71e53e5eb5c944ad54ff3a</guid>
+      <pubDate>Sun, 19 May 2024 18:55:52 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/exodus-2013-6th-commandment-part-2/</description>
+      <enclosure url="https://www.calvarycr.com/abiding/exodus2023/20240519.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Exodus 20:13 – 6th Commandment</title>
+      <link>https://calvarycr.com/exodus-2013-6th-commandment/</link>
+      <guid isPermaLink="false">ba36bc09ac1dcdb2f3147391a3a9406145f2fbaf984c73050c19febf67cefa53</guid>
+      <pubDate>Sat, 11 May 2024 22:50:38 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/exodus-2013-6th-commandment/</description>
+      <enclosure url="https://www.calvarycr.com/abiding/exodus2023/20240512.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Exodus 20:12 – 5th Commandment</title>
+      <link>https://calvarycr.com/exodus-2012-5th-commandment/</link>
+      <guid isPermaLink="false">f9d8f2787795aeb45530d4571a5d5088bc9c8ab62f16a470af0d9fcfea56b346</guid>
+      <pubDate>Sun, 28 Apr 2024 19:02:28 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/exodus-2012-5th-commandment/</description>
+      <enclosure url="https://www.calvarycr.com/abiding/exodus2023/20240428-10am.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Exodus 20:11 Part 2</title>
+      <link>https://calvarycr.com/exodus-20-11-part-2/</link>
+      <guid isPermaLink="false">4179fabbf8ac2d5f31b1bc187a93664e53d32aa849c3269ba64d5278bc3d292b</guid>
+      <pubDate>Sun, 14 Apr 2024 18:22:10 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/exodus-20-11-part-2/</description>
+      <enclosure url="https://www.calvarycr.com/abiding/exodus2023/20240414.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Exodus 20:8-11</title>
+      <link>https://calvarycr.com/exodus-208-11/</link>
+      <guid isPermaLink="false">fbc31db5161c2f22747d1be19179b2b4dda4848e6bc394712865dfa442f3c691</guid>
+      <pubDate>Sun, 07 Apr 2024 19:00:48 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/exodus-208-11/</description>
+      <enclosure url="https://www.calvarycr.com/abiding/exodus2023/20240407.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Exodus 20:7</title>
+      <link>https://calvarycr.com/exodus-207/</link>
+      <guid isPermaLink="false">f7e1912c6d92beccf11e62892679e38082bcb26759681b5711a852478728c640</guid>
+      <pubDate>Sun, 17 Mar 2024 19:56:34 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/exodus-207/</description>
+      <enclosure url="https://www.calvarycr.com/abiding/exodus2023/20240317.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Exodus 20:4-6</title>
+      <link>https://calvarycr.com/exodus-20-vs-4-6/</link>
+      <guid isPermaLink="false">b7241c5e38018d8e66754c85f1087a54cd1c68b82afa7e763db81ac57497a0ef</guid>
+      <pubDate>Sun, 10 Mar 2024 22:25:58 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/exodus-20-vs-4-6/</description>
+      <enclosure url="https://www.calvarycr.com/abiding/exodus2023/20240310.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Exodus 20:3 – 1st Commandment</title>
+      <link>https://calvarycr.com/exodus-20-vs-3-1st-commandment/</link>
+      <guid isPermaLink="false">ece22785a35932ee73f7585821ce240df9835c6499b7e33021daa1e04f908752</guid>
+      <pubDate>Sun, 25 Feb 2024 19:28:14 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/exodus-20-vs-3-1st-commandment/</description>
+      <enclosure url="https://www.calvarycr.com/abiding/exodus2023/20240225.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Exodus 20:1-3</title>
+      <link>https://calvarycr.com/exodus-20-1-3/</link>
+      <guid isPermaLink="false">417d8e3a8b58fbd95d8820286c796a43a19ba34dfc366b76ae96863c9779affd</guid>
+      <pubDate>Sun, 11 Feb 2024 19:47:32 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/exodus-20-1-3/</description>
+      <enclosure url="https://www.calvarycr.com/abiding/exodus2023/20240211.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Exodus 19 – Part 2</title>
+      <link>https://calvarycr.com/exodus-19-part-2/</link>
+      <guid isPermaLink="false">431480afdf32bdb5802849aaac5cc654370b99641dc5913d6343cc77ecb2f550</guid>
+      <pubDate>Sun, 04 Feb 2024 22:44:34 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/exodus-19-part-2/</description>
+      <enclosure url="https://www.calvarycr.com/abiding/exodus2023/20240204.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Exodus 19</title>
+      <link>https://calvarycr.com/exodus-19-2/</link>
+      <guid isPermaLink="false">9fe5b57d822c82e13f444cc4f8e9900a8e2b8bd76567140d011ae8cb51a43aa2</guid>
+      <pubDate>Sun, 28 Jan 2024 19:44:08 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/exodus-19-2/</description>
+      <enclosure url="https://www.calvarycr.com/abiding/exodus2023/20240128.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Exodus 18:13-27</title>
+      <link>https://calvarycr.com/exodus-18-13-27/</link>
+      <guid isPermaLink="false">8561d7369b64401a509322e94f706ba1d43eb3a1c8d02a02bd62a9b867575849</guid>
+      <pubDate>Sun, 07 Jan 2024 20:01:57 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/exodus-18-13-27/</description>
+      <enclosure url="https://www.calvarycr.com/abiding/exodus2023/20240107.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Exodus 18:1-12</title>
+      <link>https://calvarycr.com/exodus-181-12/</link>
+      <guid isPermaLink="false">b93eaee1f4dca1306925e7c94129f358b457964f258ac3761fe4430997ddb831</guid>
+      <pubDate>Mon, 18 Dec 2023 00:51:51 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/exodus-181-12/</description>
+      <enclosure url="https://www.calvarycr.com/abiding/exodus2023/20231217.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Exodus 17:8-17</title>
+      <link>https://calvarycr.com/exodus-178-17/</link>
+      <guid isPermaLink="false">144fcc0babd4e36f95d0d136e5fedb234e5d142c865600f87add492e9ca32e6b</guid>
+      <pubDate>Sun, 10 Dec 2023 20:46:39 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/exodus-178-17/</description>
+      <enclosure url="https://www.calvarycr.com/abiding/exodus2023/20231210.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Exodus 17:1-7</title>
+      <link>https://calvarycr.com/exodus-171-7-2/</link>
+      <guid isPermaLink="false">c5c569d12f67ac434939cbb92565154f539b72c56f6ed35e26df66af9ae14d19</guid>
+      <pubDate>Sun, 26 Nov 2023 19:28:52 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/exodus-171-7-2/</description>
+      <enclosure url="https://www.calvarycr.com/abiding/exodus2023/20231126.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Exodus 16</title>
+      <link>https://calvarycr.com/exodus-16-2/</link>
+      <guid isPermaLink="false">727d26ff9a39f66b9ba43909796a971347df334c5d1dc53635d1ea7026017c12</guid>
+      <pubDate>Sun, 19 Nov 2023 22:37:37 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/exodus-16-2/</description>
+      <enclosure url="https://www.calvarycr.com/abiding/exodus2023/20231119.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Exodus 15 – Part 2</title>
+      <link>https://calvarycr.com/exodus-part-2/</link>
+      <guid isPermaLink="false">58f5d41428713bb247798582121e2294da763e4cd38f374caf2eda777930937e</guid>
+      <pubDate>Sun, 12 Nov 2023 19:39:42 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/exodus-part-2/</description>
+      <enclosure url="https://www.calvarycr.com/abiding/exodus2023/20231112.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Exodus 15 – Song of Moses</title>
+      <link>https://calvarycr.com/exodus-15-song-of-moses/</link>
+      <guid isPermaLink="false">707ab762aaa5d8a65dcd1d2728acc333a836e724a244879aa374c176e3ac0b55</guid>
+      <pubDate>Sun, 15 Oct 2023 20:37:40 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/exodus-15-song-of-moses/</description>
+      <enclosure url="https://www.calvarycr.com/abiding/exodus2023/20231015.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Exodus 14 Part 2 – Parting of the Red Sea</title>
+      <link>https://calvarycr.com/exodus-14-part-2-parting-of-the-red-sea/</link>
+      <guid isPermaLink="false">2c2139a43043c11c8a5718d5117fb6128e3b19ed6292736e19a90288fbdcd6be</guid>
+      <pubDate>Mon, 02 Oct 2023 17:16:08 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/exodus-14-part-2-parting-of-the-red-sea/</description>
+      <enclosure url="https://www.calvarycr.com/abiding/exodus2023/20231001.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Exodus 14-The Crossing of the Red Sea</title>
+      <link>https://calvarycr.com/exodus-14-the-crossing-of-the-red-sea/</link>
+      <guid isPermaLink="false">af31b1385d66f74a6553af81d141e4f4c99bdf5f7c433d9f0407e60143d8c207</guid>
+      <pubDate>Sun, 24 Sep 2023 19:50:52 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/exodus-14-the-crossing-of-the-red-sea/</description>
+      <enclosure url="https://www.calvarycr.com/abiding/exodus2023/20230924.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Exodus 13:17-22</title>
+      <link>https://calvarycr.com/exodus-1317-22/</link>
+      <guid isPermaLink="false">aad2160ee968dc52d71014adb1dfcdaf41f3b96ad3a86ff240f73408d61a0268</guid>
+      <pubDate>Sun, 03 Sep 2023 19:21:16 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/exodus-1317-22/</description>
+      <enclosure url="http://calvarycr.com/abiding/exodus2023/20230903.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Exodus 13:10-16</title>
+      <link>https://calvarycr.com/exodus-1310-16/</link>
+      <guid isPermaLink="false">8c85a5935229c5b930988284b0efd439d468be1cf43ab9e5d0adf1fcdc4d3e85</guid>
+      <pubDate>Sun, 27 Aug 2023 20:35:05 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/exodus-1310-16/</description>
+      <enclosure url="http://calvarycr.com/abiding/exodus2023/20230827.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Exodus 13:1-9</title>
+      <link>https://calvarycr.com/exodus-13-1-9/</link>
+      <guid isPermaLink="false">9c8043a005e3fdfe8e9189aec58c6d045ddf89c483cbba703332a383bf5297c3</guid>
+      <pubDate>Sun, 20 Aug 2023 20:42:34 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/exodus-13-1-9/</description>
+      <enclosure url="http://calvarycr.com/abiding/exodus2023/20230820.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Exodus 12:31-51</title>
+      <link>https://calvarycr.com/exodus-1231-51/</link>
+      <guid isPermaLink="false">cadf2060648f51e4e31cb86b35b30743437b972f4e30d0dbb56c6f01cf7972b8</guid>
+      <pubDate>Sun, 06 Aug 2023 19:06:58 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/exodus-1231-51/</description>
+      <enclosure url="http://calvarycr.com/abiding/exodus2023/20230806.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Exodus 12:15-30</title>
+      <link>https://calvarycr.com/exodus-12_15-30/</link>
+      <guid isPermaLink="false">f1e7ddea99ab698874df17953d415f1589a0a18358439b4e76fa899f1300fd43</guid>
+      <pubDate>Sun, 30 Jul 2023 18:46:13 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/exodus-12_15-30/</description>
+      <enclosure url="http://calvarycr.com/abiding/exodus2023/20230730.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Exodus 12:1-14</title>
+      <link>https://calvarycr.com/exodus-12_1-14/</link>
+      <guid isPermaLink="false">0258800a26f14b3cfb8950d0a5c2cb618055f6a61cb3a6a2c553815a035d32b9</guid>
+      <pubDate>Sun, 23 Jul 2023 18:58:36 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/exodus-12_1-14/</description>
+      <enclosure url="http://calvarycr.com/abiding/exodus2023/20230723.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Exodus 11</title>
+      <link>https://calvarycr.com/exodus-11-2/</link>
+      <guid isPermaLink="false">70b3bfddfdeabbac5915bf437e953d008f2d3d278d03a4c48e6045bdd04a8d24</guid>
+      <pubDate>Sun, 09 Jul 2023 19:16:21 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/exodus-11-2/</description>
+      <enclosure url="http://calvarycr.com/abiding/exodus2023/20230709.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Exodus 10</title>
+      <link>https://calvarycr.com/exodus-10-2/</link>
+      <guid isPermaLink="false">c1433fcfeadaa5c96ee30baa29e207e331ab3cdd6379cfeaa3f57b3682d71e84</guid>
+      <pubDate>Sun, 02 Jul 2023 22:05:35 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/exodus-10-2/</description>
+      <enclosure url="http://calvarycr.com/abiding/exodus2023/20230702.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Exodus 9:13-35</title>
+      <link>https://calvarycr.com/exodus-913-35/</link>
+      <guid isPermaLink="false">8001a1930839b3806fd0d254a6fc83c02413f5757659dab24ff2d4e4e44e21f0</guid>
+      <pubDate>Sun, 25 Jun 2023 14:45:16 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/exodus-913-35/</description>
+      <enclosure url="http://calvarycr.com/abiding/exodus2023/20230625.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Exodus 8:20-9:12</title>
+      <link>https://calvarycr.com/exodus-820-32-91-12/</link>
+      <guid isPermaLink="false">aa86244a33383fdfd9445013cd4f27230af528ebb08130d4024bfe96368aeace</guid>
+      <pubDate>Sun, 28 May 2023 20:41:30 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/exodus-820-32-91-12/</description>
+      <enclosure url="http://calvarycr.com/abiding/exodus2023/20230528.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Exodus 8:1-19</title>
+      <link>https://calvarycr.com/exodus-81-19/</link>
+      <guid isPermaLink="false">d3acc25bae03708553614ff4c8132023f62b15f9350815d73bf06a9b1d4a62c8</guid>
+      <pubDate>Sun, 21 May 2023 18:46:27 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/exodus-81-19/</description>
+      <enclosure url="http://calvarycr.com/abiding/exodus2023/20230521.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Exodus 7:8-25</title>
+      <link>https://calvarycr.com/exodus-7-2/</link>
+      <guid isPermaLink="false">b922f19071440e162ccf6c46e1bc8fc19a004e9e6a12ebeadc881ea074ed6f9b</guid>
+      <pubDate>Sun, 14 May 2023 20:33:48 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/exodus-7-2/</description>
+      <enclosure url="http://calvarycr.com/abiding/exodus2023/20230514.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Exodus 6-7:1-7</title>
+      <link>https://calvarycr.com/exodus-6-71-7/</link>
+      <guid isPermaLink="false">ddf72aed9b02f244ba557022074488623c9f29d08d10c7db0bdc7b232dcda0f8</guid>
+      <pubDate>Sun, 07 May 2023 18:57:39 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/exodus-6-71-7/</description>
+      <enclosure url="http://calvarycr.com/abiding/exodus2023/20230507.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Exodus 5</title>
+      <link>https://calvarycr.com/exodus-5-2/</link>
+      <guid isPermaLink="false">e116a942ae9eebef4d02388ab87cd3127ebc3a4ffe8342ca421eb54de52d8107</guid>
+      <pubDate>Sun, 30 Apr 2023 18:49:11 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/exodus-5-2/</description>
+      <enclosure url="http://calvarycr.com/abiding/exodus2023/20230430.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Exodus 4</title>
+      <link>https://calvarycr.com/exodus-4/</link>
+      <guid isPermaLink="false">da68e9157ac0ab3d2c4607b39d603bd6c4a259e903504dd98b55f50403f3306c</guid>
+      <pubDate>Mon, 24 Apr 2023 00:07:25 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/exodus-4/</description>
+      <enclosure url="http://calvarycr.com/abiding/exodus2023/20230423.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Exodus 3:14-22</title>
+      <link>https://calvarycr.com/exodus-314-22/</link>
+      <guid isPermaLink="false">14a2ff929d05fcd29be2a12b934d02a1151f4a511392849f9de889ec961e1047</guid>
+      <pubDate>Sun, 16 Apr 2023 18:36:36 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/exodus-314-22/</description>
+      <enclosure url="http://calvarycr.com/abiding/exodus2023/20230416.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Exodus 3:2-13</title>
+      <link>https://calvarycr.com/exodus-32-13/</link>
+      <guid isPermaLink="false">0a2c408db6c60093a2098f1f62b773e4d55cf1d47321f87246bcb52d8244a70b</guid>
+      <pubDate>Sun, 02 Apr 2023 23:28:14 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/exodus-32-13/</description>
+      <enclosure url="http://calvarycr.com/abiding/exodus2023/20230402.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Exodus 3</title>
+      <link>https://calvarycr.com/exodus-3/</link>
+      <guid isPermaLink="false">7a2eeaa42dfdfca33873ea89e0c1b743716109ba443d087a275641c16f49294e</guid>
+      <pubDate>Sun, 19 Mar 2023 19:22:31 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/exodus-3/</description>
+      <enclosure url="http://calvarycr.com/abiding/exodus2023/20230319.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Exodus 2</title>
+      <link>https://calvarycr.com/exodus-2/</link>
+      <guid isPermaLink="false">9ab39d17b79ac44125df68f68b15558fda6965b461a703e53998731cc22ed991</guid>
+      <pubDate>Sun, 12 Mar 2023 21:24:18 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/exodus-2/</description>
+      <enclosure url="http://calvarycr.com/abiding/exodus2023/20230312.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Exodus 1</title>
+      <link>https://calvarycr.com/exodus-1-2/</link>
+      <guid isPermaLink="false">79ce8c09d28cf6864f184f03db7a007250cf8f67bc178b527fe4550a7b8227a4</guid>
+      <pubDate>Sun, 05 Mar 2023 21:29:19 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/exodus-1-2/</description>
+      <enclosure url="http://calvarycr.com/abiding/exodus2023/20230305.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Exodus Intro</title>
+      <link>https://calvarycr.com/exodus-intro/</link>
+      <guid isPermaLink="false">105935619328e5e11e9cf57cb79416045ba9a58b443bb102fbd1deb330886ad7</guid>
+      <pubDate>Sun, 26 Feb 2023 19:59:12 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/exodus-intro/</description>
+      <enclosure url="http://calvarycr.com/abiding/exodus2023/20230226.mp3" length="0" type="audio/mpeg"/>
+    </item>
+  </channel>
+</rss>

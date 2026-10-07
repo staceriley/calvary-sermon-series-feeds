@@ -1,0 +1,17 @@
+{
+  "slug": "jonah",
+  "feed_title": "Calvary Castle Rock \u2014 Jonah Archive",
+  "archive_url": "https://calvarycr.com/archives/jonah/",
+  "art_url": "https://calvarycr.com/wp-content/uploads/2020/06/message-bumper-jonah-700x394.jpg",
+  "author": "Pastor Dave Love / Calvary Castle Rock",
+  "description": "Unofficial RSS wrapper for the public Calvary Castle Rock Jonah teaching archive.",
+  "match_keywords": [
+    "jonah"
+  ],
+  "minimum_episode_count": 3,
+  "expected_titles": [
+    "Jonah Part 1",
+    "Jonah Part 2",
+    "Jonah Part 3"
+  ]
+}

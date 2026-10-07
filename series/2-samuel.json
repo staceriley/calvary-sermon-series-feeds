@@ -1,0 +1,36 @@
+{
+  "slug": "2-samuel",
+  "feed_title": "Calvary Castle Rock \u2014 2 Samuel Archive",
+  "archive_url": "https://calvarycr.com/archives/2-samuel/",
+  "art_url": "https://calvarycr.com/wp-content/uploads/2015/05/teaching-smallBanner-IISamuel.jpg",
+  "author": "Pastor Dave Love / Calvary Castle Rock",
+  "description": "Unofficial RSS wrapper for the public Calvary Castle Rock 2 Samuel teaching archive.",
+  "match_keywords": [
+    "2 samuel",
+    "covenants overview"
+  ],
+  "minimum_episode_count": 17,
+  "expected_titles": [
+    "2 Samuel 1:17-2",
+    "2 Samuel 3",
+    "2 Samuel 4-5",
+    "2 Samuel 7, Covenants Overview Part 2",
+    "2 Samuel 6",
+    "2 Samuel 7, Covenants Overview Part 1",
+    "2 Samuel 8",
+    "2 Samuel 9",
+    "2 Samuel 10",
+    "2 Samuel 11",
+    "2 Samuel 12",
+    "2 Samuel 13",
+    "2 Samuel 14",
+    "2 Samuel 15",
+    "2 Samuel 16-17",
+    "2 Samuel 18",
+    "2 Samuel 19:1-39",
+    "2 Samuel 19:40-21:14",
+    "2 Samuel 21:15-22",
+    "2 Samuel 23",
+    "2 Samuel 24"
+  ]
+}

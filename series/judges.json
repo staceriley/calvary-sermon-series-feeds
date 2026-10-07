@@ -1,0 +1,39 @@
+{
+  "slug": "judges",
+  "feed_title": "Calvary Castle Rock \u2014 Judges Archive",
+  "archive_url": "https://calvarycr.com/archives/judges/",
+  "art_url": "https://calvarycr.com/wp-content/uploads/2010/12/teaching-smallBanner-judges.jpg",
+  "author": "Pastor Dave Love / Calvary Castle Rock",
+  "description": "Unofficial RSS wrapper for the public Calvary Castle Rock Judges teaching archive.",
+  "match_keywords": [
+    "judges"
+  ],
+  "minimum_episode_count": 20,
+  "expected_titles": [
+    "Judges 1:1-12",
+    "Judges 1:9-27",
+    "Judges 1:27-2:10",
+    "Judges 2:10-15",
+    "Judges 3:1-6",
+    "Judges 3:7-30",
+    "Judges 3:31-4:24",
+    "Judges 5",
+    "Judges 6:1-17",
+    "Judges 6:14-32",
+    "Judges 7:1-22",
+    "Judges 7:23-8:3",
+    "Judges 8",
+    "Judges 9",
+    "Judges 10",
+    "Judges 11",
+    "Judges 12-13:14",
+    "Judges 13:15-25",
+    "Judges 14",
+    "Judges 15",
+    "Judges 16",
+    "Judges 17",
+    "Judges 18",
+    "Judges 19",
+    "Judges 20-21"
+  ]
+}

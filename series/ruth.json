@@ -1,0 +1,18 @@
+{
+  "slug": "ruth",
+  "feed_title": "Calvary Castle Rock \u2014 Ruth Archive",
+  "archive_url": "https://calvarycr.com/archives/ruth/",
+  "art_url": "https://calvarycr.com/wp-content/uploads/2011/02/teaching-smallBanner-ruth.jpg",
+  "author": "Pastor Dave Love / Calvary Castle Rock",
+  "description": "Unofficial RSS wrapper for the public Calvary Castle Rock Ruth teaching archive.",
+  "match_keywords": [
+    "ruth"
+  ],
+  "minimum_episode_count": 4,
+  "expected_titles": [
+    "Ruth 1:1-22",
+    "Ruth 2:1-19",
+    "Ruth 2:18-3:18",
+    "Ruth 4"
+  ]
+}

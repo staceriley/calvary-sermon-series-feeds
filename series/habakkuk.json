@@ -1,0 +1,18 @@
+{
+  "slug": "habakkuk",
+  "feed_title": "Calvary Castle Rock \u2014 Habakkuk Archive",
+  "archive_url": "https://calvarycr.com/archives/habakkuk/",
+  "art_url": "https://calvarycr.com/wp-content/uploads/habakkuk-banner-700x441.png",
+  "author": "Calvary Castle Rock",
+  "description": "Unofficial RSS wrapper for the public Calvary Castle Rock Habakkuk teaching archive.",
+  "match_keywords": [
+    "habakkuk"
+  ],
+  "minimum_episode_count": 4,
+  "expected_titles": [
+    "Habakkuk 1:1-17",
+    "Habakkuk 2:1-4",
+    "Habakkuk 2:5-20",
+    "Habakkuk 3"
+  ]
+}

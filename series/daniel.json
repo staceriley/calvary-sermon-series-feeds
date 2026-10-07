@@ -1,0 +1,31 @@
+{
+  "slug": "daniel",
+  "feed_title": "Calvary Castle Rock \u2014 Daniel Archive",
+  "archive_url": "https://calvarycr.com/archives/daniel/",
+  "art_url": "https://calvarycr.com/wp-content/uploads/2012/06/457230702-700x394.jpg",
+  "author": "Pastor Dave Love / Calvary Castle Rock",
+  "description": "Unofficial RSS wrapper for the public Calvary Castle Rock Daniel teaching archive.",
+  "match_keywords": [
+    "daniel"
+  ],
+  "minimum_episode_count": 14,
+  "expected_titles": [
+    "Daniel 1",
+    "Daniel 2",
+    "Daniel 3",
+    "Daniel 4",
+    "Daniel 5",
+    "Daniel 6",
+    "Daniel 1-6 Review",
+    "Daniel 7:1-14",
+    "Daniel 7:15-21",
+    "Daniel 7:22-28",
+    "Daniel 8",
+    "Daniel 9:1-19",
+    "Daniel 9:20-27",
+    "Daniel 10",
+    "Daniel 11:1-34",
+    "Daniel 11:35-45",
+    "Daniel 12"
+  ]
+}

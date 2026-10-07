@@ -1,0 +1,26 @@
+{
+  "slug": "hosea",
+  "feed_title": "Calvary Castle Rock \u2014 Hosea Archive",
+  "archive_url": "https://calvarycr.com/archives/hosea/",
+  "art_url": "https://calvarycr.com/wp-content/uploads/2018/02/hosea_web.jpg",
+  "author": "Pastor Dave Love / Calvary Castle Rock",
+  "description": "Unofficial RSS wrapper for the public Calvary Castle Rock Hosea teaching archive.",
+  "match_keywords": [
+    "hosea"
+  ],
+  "minimum_episode_count": 10,
+  "expected_titles": [
+    "Hosea 1-2:1",
+    "Hosea 2",
+    "Hosea 3",
+    "Hosea 4",
+    "Hosea 5",
+    "Hosea 6-7",
+    "Hosea 8",
+    "Hosea 9",
+    "Hosea 10",
+    "Hosea 11",
+    "Hosea 12-13:4",
+    "Hosea 13:5-14"
+  ]
+}

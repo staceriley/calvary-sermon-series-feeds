@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Calvary Castle Rock — Judges Archive</title>
+    <link>https://calvarycr.com/archives/judges/</link>
+    <description>Unofficial RSS wrapper for the public Calvary Castle Rock Judges teaching archive.</description>
+    <language>en-us</language>
+    <image>
+      <url>https://calvarycr.com/wp-content/uploads/2010/12/teaching-smallBanner-judges.jpg</url>
+      <title>Calvary Castle Rock — Judges Archive</title>
+      <link>https://calvarycr.com/archives/judges/</link>
+    </image>
+    <itunes:image href="https://calvarycr.com/wp-content/uploads/2010/12/teaching-smallBanner-judges.jpg"/>
+    <itunes:author>Pastor Dave Love / Calvary Castle Rock</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>Judges 20-21</title>
+      <link>https://calvarycr.com/judges-20-21/</link>
+      <guid isPermaLink="false">36691119d4168010aefe8abc9716c4a2b435dc9c5760119f0869b39aeb468c95</guid>
+      <pubDate>Wed, 15 Dec 2010 07:00:00 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/judges-20-21/</description>
+      <enclosure url="http://calvarycr.com/abiding/judges/121510h.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Judges 19</title>
+      <link>https://calvarycr.com/judges-19/</link>
+      <guid isPermaLink="false">d3294f9c0f02d7e356beb8b8bae83cd8c260567631dd6615f6384d056c395585</guid>
+      <pubDate>Wed, 08 Dec 2010 07:00:00 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/judges-19/</description>
+      <enclosure url="https://calvarycr.com/abiding/judges/120810h.mp3?_=1" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Judges 18</title>
+      <link>https://calvarycr.com/judges-18/</link>
+      <guid isPermaLink="false">ec45ae59e6e4662288e64fca6af5a54d78c57b31b95fa9ed0d968cd8fc4afb75</guid>
+      <pubDate>Wed, 01 Dec 2010 07:00:00 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/judges-18/</description>
+      <enclosure url="https://calvarycr.com/abiding/judges/120110h.mp3?_=1" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Judges 17</title>
+      <link>https://calvarycr.com/judges-17/</link>
+      <guid isPermaLink="false">0e4bc027418b52739fe9f02daca3fa9b599f6992a0235a4ebd09ee8a1927d7d8</guid>
+      <pubDate>Wed, 10 Nov 2010 07:00:00 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/judges-17/</description>
+      <enclosure url="https://calvarycr.com/abiding/judges/111010h.mp3?_=1" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Judges 16</title>
+      <link>https://calvarycr.com/judges-16/</link>
+      <guid isPermaLink="false">84e7d7fe96ec35fe20d3dbdcfa1f3102fd8115af6343e8403293e6a88b24e29a</guid>
+      <pubDate>Wed, 03 Nov 2010 06:00:00 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/judges-16/</description>
+      <enclosure url="https://calvarycr.com/abiding/judges/110310h.mp3?_=1" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Judges 15</title>
+      <link>https://calvarycr.com/judges-15/</link>
+      <guid isPermaLink="false">f60f5572db6f25642a52e28db2c88e58bb7b8333daea54d3ccaf71e8f53bd545</guid>
+      <pubDate>Wed, 27 Oct 2010 06:00:00 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/judges-15/</description>
+      <enclosure url="https://calvarycr.com/abiding/judges/102710h.mp3?_=1" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Judges 14</title>
+      <link>https://calvarycr.com/judges-14/</link>
+      <guid isPermaLink="false">35824de8625604007336942bb0e7f9b27c827f1689f94cb4a6a861b5e0956376</guid>
+      <pubDate>Wed, 20 Oct 2010 06:00:00 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/judges-14/</description>
+      <enclosure url="https://calvarycr.com/abiding/judges/102010h.mp3?_=1" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Judges 13:15-25</title>
+      <link>https://calvarycr.com/judges-1315-25/</link>
+      <guid isPermaLink="false">fee6fdbe480c705e71a986066eebbc7808f580d7f93b4b1c4473d3e98fb1a414</guid>
+      <pubDate>Wed, 13 Oct 2010 06:00:00 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/judges-1315-25/</description>
+      <enclosure url="https://calvarycr.com/abiding/judges/101310h.mp3?_=1" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Judges 12-13:14</title>
+      <link>https://calvarycr.com/judges-12-1314/</link>
+      <guid isPermaLink="false">1c4c6863998e548a55ba0f04b40ec623719e8dde43fa1a5c7e7468ccd6710fb2</guid>
+      <pubDate>Wed, 06 Oct 2010 06:00:00 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/judges-12-1314/</description>
+      <enclosure url="https://calvarycr.com/abiding/judges/100610h.mp3?_=1" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Judges 11</title>
+      <link>https://calvarycr.com/judges-11/</link>
+      <guid isPermaLink="false">e96a2febd31e3d6240a8ed87ccca330e3effc802ebc56ea17743d218a3283710</guid>
+      <pubDate>Wed, 29 Sep 2010 06:00:00 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/judges-11/</description>
+      <enclosure url="https://calvarycr.com/abiding/judges/092910h.mp3?_=1" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Judges 10</title>
+      <link>https://calvarycr.com/judges-10/</link>
+      <guid isPermaLink="false">78a29a3d7db3bcaa69fdfea3dbc8bb87598744ef0221d0df14f9e4e93147ba4c</guid>
+      <pubDate>Wed, 15 Sep 2010 06:00:00 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/judges-10/</description>
+      <enclosure url="https://calvarycr.com/abiding/judges/091510h.mp3?_=1" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Judges 9</title>
+      <link>https://calvarycr.com/judges-9/</link>
+      <guid isPermaLink="false">e31a1bf00a5ad85a45853879611197a1e9bf10d3222b914bb8059904ec165e9e</guid>
+      <pubDate>Wed, 08 Sep 2010 06:00:00 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/judges-9/</description>
+      <enclosure url="https://calvarycr.com/abiding/judges/090810h.mp3?_=1" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Judges 8</title>
+      <link>https://calvarycr.com/judges-8/</link>
+      <guid isPermaLink="false">65af277b94aff5c6d13db3242f1339d43f06aaa307f31388ca192ec512ae2300</guid>
+      <pubDate>Wed, 01 Sep 2010 06:00:00 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/judges-8/</description>
+      <enclosure url="https://calvarycr.com/abiding/judges/090110h.mp3?_=1" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Judges 7:23-8:3</title>
+      <link>https://calvarycr.com/judges-723-83/</link>
+      <guid isPermaLink="false">7b1ca47cf7317aaa80d48db499419cc76f35a01525cfb5ee1e7b20508f4a6a9d</guid>
+      <pubDate>Wed, 25 Aug 2010 06:00:00 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/judges-723-83/</description>
+      <enclosure url="https://calvarycr.com/abiding/judges/082510h.mp3?_=1" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Judges 7:1-22</title>
+      <link>https://calvarycr.com/judges-71-22/</link>
+      <guid isPermaLink="false">a3d442b0472c03f2b35d70ce2d4fb6f78989350c56e3b54009b4fcfbd95f4c39</guid>
+      <pubDate>Wed, 26 May 2010 06:00:00 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/judges-71-22/</description>
+      <enclosure url="https://calvarycr.com/abiding/judges/052610h.mp3?_=1" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Judges 6:14-32</title>
+      <link>https://calvarycr.com/judges-614-32/</link>
+      <guid isPermaLink="false">d6720a544bf3d1324802c6953088232c13d2b9bbbcbde750eb0a79c6d8caf030</guid>
+      <pubDate>Wed, 14 Apr 2010 06:00:00 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/judges-614-32/</description>
+      <enclosure url="https://calvarycr.com/abiding/judges/041410h.mp3?_=1" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Judges 6:1-17</title>
+      <link>https://calvarycr.com/judges-61-17/</link>
+      <guid isPermaLink="false">876377332f70d64a1c37aa937a2c30df36f0c3efa0c5af0327d82bd4e7c2e4fa</guid>
+      <pubDate>Wed, 31 Mar 2010 06:00:00 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/judges-61-17/</description>
+      <enclosure url="https://calvarycr.com/abiding/judges/033110h.mp3?_=1" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Judges 5</title>
+      <link>https://calvarycr.com/judges-5/</link>
+      <guid isPermaLink="false">dddda82c488abf58d5e9759da4429e4273ac283ee05c723d14371cbd678a1048</guid>
+      <pubDate>Wed, 17 Mar 2010 06:00:00 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/judges-5/</description>
+      <enclosure url="https://calvarycr.com/abiding/judges/031710h.mp3?_=1" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Judges 3:31-4:24</title>
+      <link>https://calvarycr.com/judges-331-424/</link>
+      <guid isPermaLink="false">616f3c2a2de58e8bd614b2af32bd8a31b4e80b2aa03475217cc525d184283b49</guid>
+      <pubDate>Wed, 10 Mar 2010 07:00:00 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/judges-331-424/</description>
+      <enclosure url="https://calvarycr.com/abiding/judges/031010h.mp3?_=1" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Judges 3:7-30</title>
+      <link>https://calvarycr.com/judges-37-30/</link>
+      <guid isPermaLink="false">776d41eb8a72ca7e1063e956bc45f50a43d22ef0cf661b362c367f51c0131a26</guid>
+      <pubDate>Wed, 24 Feb 2010 07:00:00 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/judges-37-30/</description>
+      <enclosure url="https://calvarycr.com/abiding/judges/022410h.mp3?_=1" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Judges 3:1-6</title>
+      <link>https://calvarycr.com/judges-31-6/</link>
+      <guid isPermaLink="false">ad602434bfbf572dc9549aff299654d3f66483d9d19ac6ef6f8bc92ca2db6e33</guid>
+      <pubDate>Wed, 10 Feb 2010 07:00:00 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/judges-31-6/</description>
+      <enclosure url="https://calvarycr.com/abiding/judges/021010h.mp3?_=1" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Judges 2:10-15</title>
+      <link>https://calvarycr.com/judges-210-15/</link>
+      <guid isPermaLink="false">dc74017425915e611901483a9f89330268d539c0656010c6c5d5ad8fceab7be7</guid>
+      <pubDate>Wed, 03 Feb 2010 07:00:00 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/judges-210-15/</description>
+      <enclosure url="https://calvarycr.com/abiding/judges/020310h.mp3?_=1" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Judges 1:27-2:10</title>
+      <link>https://calvarycr.com/judges-127-210/</link>
+      <guid isPermaLink="false">811f0ecc684cc077b28c51b90386bfd2db2d2f43180dc0f115fb748540dd1fa3</guid>
+      <pubDate>Wed, 27 Jan 2010 07:00:00 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/judges-127-210/</description>
+      <enclosure url="https://calvarycr.com/abiding/judges/012710h.mp3?_=1" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Judges 1:9-27</title>
+      <link>https://calvarycr.com/judges-19-27/</link>
+      <guid isPermaLink="false">9150ce24eaa9ec204dfee0409065b6b8e2780cb37ca22fc3fdd943cf5f806e35</guid>
+      <pubDate>Wed, 13 Jan 2010 07:00:00 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/judges-19-27/</description>
+      <enclosure url="https://calvarycr.com/abiding/judges/011310h.mp3?_=1" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Judges 1:1-12</title>
+      <link>https://calvarycr.com/judges-11-12/</link>
+      <guid isPermaLink="false">ca77975e8573df34cab30c9e4d67032f2c3e1bed5d97ba6e592e372857143173</guid>
+      <pubDate>Wed, 06 Jan 2010 07:00:00 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/judges-11-12/</description>
+      <enclosure url="https://calvarycr.com/abiding/judges/010610h.mp3?_=1" length="0" type="audio/mpeg"/>
+    </item>
+  </channel>
+</rss>

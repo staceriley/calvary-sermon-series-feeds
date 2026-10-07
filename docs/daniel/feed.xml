@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Calvary Castle Rock — Daniel Archive</title>
+    <link>https://calvarycr.com/archives/daniel/</link>
+    <description>Unofficial RSS wrapper for the public Calvary Castle Rock Daniel teaching archive.</description>
+    <language>en-us</language>
+    <image>
+      <url>https://calvarycr.com/wp-content/uploads/2012/06/457230702-700x394.jpg</url>
+      <title>Calvary Castle Rock — Daniel Archive</title>
+      <link>https://calvarycr.com/archives/daniel/</link>
+    </image>
+    <itunes:image href="https://calvarycr.com/wp-content/uploads/2012/06/457230702-700x394.jpg"/>
+    <itunes:author>Pastor Dave Love / Calvary Castle Rock</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>Daniel 12</title>
+      <link>https://calvarycr.com/daniel-12/</link>
+      <guid isPermaLink="false">88433d0f715d1194e72f4a25940a3b9f0ba2a89f44db18c34c93c742082fd9ce</guid>
+      <pubDate>Sun, 24 Jun 2012 06:00:00 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/daniel-12/</description>
+      <enclosure url="http://calvarycr.com/abiding/daniel/062412.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Daniel 11:35-45</title>
+      <link>https://calvarycr.com/daniel-1135-45/</link>
+      <guid isPermaLink="false">f1bff5870bce8c0f79e76c15c58f79f46ac5cefc23d5eee2c4928a7b3df59063</guid>
+      <pubDate>Sun, 17 Jun 2012 06:00:00 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/daniel-1135-45/</description>
+      <enclosure url="http://calvarycr.com/abiding/daniel/061712.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Daniel 11:1-34</title>
+      <link>https://calvarycr.com/daniel-111-34/</link>
+      <guid isPermaLink="false">5cc2a375db2e5a5eab2ffb5e95e0bcb1812ef3466192955d29eb9b8a69ed0c28</guid>
+      <pubDate>Sun, 10 Jun 2012 06:00:00 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/daniel-111-34/</description>
+      <enclosure url="http://calvarycr.com/abiding/daniel/061012.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Daniel 10</title>
+      <link>https://calvarycr.com/daniel-10/</link>
+      <guid isPermaLink="false">08c2b6b655a0a3e1bc1977e89c50f941fb14fe677d534380142b05fb1c76b959</guid>
+      <pubDate>Sun, 03 Jun 2012 06:00:00 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/daniel-10/</description>
+      <enclosure url="http://calvarycr.com/abiding/daniel/060312.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Daniel 9:20-27</title>
+      <link>https://calvarycr.com/daniel-920-27/</link>
+      <guid isPermaLink="false">6ca91d2dd6eebbaa6eee4b8806bfe365aa815f5a92e3d367b3b1053266e51f71</guid>
+      <pubDate>Sun, 27 May 2012 06:00:00 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/daniel-920-27/</description>
+      <enclosure url="http://calvarycr.com/abiding/daniel/052712.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Daniel 9:1-19</title>
+      <link>https://calvarycr.com/daniel-91-19/</link>
+      <guid isPermaLink="false">bef1f4bfb802476bec8d7b08dc7130ac9c5a3eb21ee9b90c566da4a764a038f7</guid>
+      <pubDate>Sun, 20 May 2012 06:00:00 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/daniel-91-19/</description>
+      <enclosure url="http://calvarycr.com/abiding/daniel/052012.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Daniel 8</title>
+      <link>https://calvarycr.com/daniel-8/</link>
+      <guid isPermaLink="false">fc05bcf014528696573e747ba964a9f6ee709cae59bbe7a8b55a42f0b79cdd69</guid>
+      <pubDate>Sun, 13 May 2012 06:00:00 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/daniel-8/</description>
+      <enclosure url="http://calvarycr.com/abiding/daniel/051312.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Daniel 7:22-28</title>
+      <link>https://calvarycr.com/daniel-722-28/</link>
+      <guid isPermaLink="false">877f9e7e296db879e6a9a13d63b902a2c6bc47fae6815ae16e7aba0a56462a01</guid>
+      <pubDate>Sun, 06 May 2012 06:00:00 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/daniel-722-28/</description>
+      <enclosure url="http://calvarycr.com/abiding/daniel/050612.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Daniel 7:15-21</title>
+      <link>https://calvarycr.com/daniel-715-21/</link>
+      <guid isPermaLink="false">4309aa837b51ab337c9b723f401e236913ed88ccd8413917a521c2f3752e55fc</guid>
+      <pubDate>Sun, 29 Apr 2012 06:00:00 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/daniel-715-21/</description>
+      <enclosure url="http://calvarycr.com/abiding/daniel/042912.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Daniel 7:1-14</title>
+      <link>https://calvarycr.com/daniel-71-14/</link>
+      <guid isPermaLink="false">5bc5158e657f03fc012b0de83ab03838b1212bb75a0e257c3c363a73e59ea41e</guid>
+      <pubDate>Sun, 22 Apr 2012 06:00:00 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/daniel-71-14/</description>
+      <enclosure url="http://calvarycr.com/abiding/daniel/042212.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Daniel 1-6 Review</title>
+      <link>https://calvarycr.com/daniel-1-6-review/</link>
+      <guid isPermaLink="false">3d541ec011683d0c255723a77dea62adee5c346217d192a286333121c8ea9a73</guid>
+      <pubDate>Sun, 15 Apr 2012 06:00:00 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/daniel-1-6-review/</description>
+      <enclosure url="http://calvarycr.com/abiding/daniel/041512.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Daniel 6</title>
+      <link>https://calvarycr.com/daniel-6/</link>
+      <guid isPermaLink="false">6d7e42fbda79c57d42fd9b9a956d5a1ed37d17883b77327596dfebc1a9f956f9</guid>
+      <pubDate>Sun, 01 Apr 2012 06:00:00 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/daniel-6/</description>
+      <enclosure url="http://calvarycr.com/abiding/daniel/040112.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Daniel 5</title>
+      <link>https://calvarycr.com/daniel-5/</link>
+      <guid isPermaLink="false">4b4c0cf8dc8e6d72b35739d7f75fb50db53d74589360ca57295fb3d155b5737b</guid>
+      <pubDate>Sun, 25 Mar 2012 06:00:00 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/daniel-5/</description>
+      <enclosure url="http://calvarycr.com/abiding/daniel/032512.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Daniel 4</title>
+      <link>https://calvarycr.com/daniel-4/</link>
+      <guid isPermaLink="false">62bf3000a6005af6b8b1e250b818a99642be96b734da397dc246676536d08254</guid>
+      <pubDate>Sun, 18 Mar 2012 06:00:00 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/daniel-4/</description>
+      <enclosure url="http://calvarycr.com/abiding/daniel/031812.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Daniel 3</title>
+      <link>https://calvarycr.com/daniel-3/</link>
+      <guid isPermaLink="false">ab57329bcdfb9c1ba53de41d39dead00a2c4d1b6b45afba7c62aa0b06338507b</guid>
+      <pubDate>Sun, 26 Feb 2012 07:00:00 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/daniel-3/</description>
+      <enclosure url="http://calvarycr.com/abiding/daniel/022612.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Daniel 2</title>
+      <link>https://calvarycr.com/daniel-2/</link>
+      <guid isPermaLink="false">7b0409a0635563d7dbe23a4dd22aeea2c1cf249e7a7b72b7d96ff29a5e72ed0c</guid>
+      <pubDate>Sun, 19 Feb 2012 07:00:00 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/daniel-2/</description>
+      <enclosure url="http://calvarycr.com/abiding/daniel/021912.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Daniel 1</title>
+      <link>https://calvarycr.com/daniel-1/</link>
+      <guid isPermaLink="false">d31c9d158ab196e537d2a62f3d3414d1b648be5e1448e0ece9cf3ff5eba2fffe</guid>
+      <pubDate>Sun, 12 Feb 2012 07:00:00 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/daniel-1/</description>
+      <enclosure url="http://calvarycr.com/abiding/daniel/021212.mp3" length="0" type="audio/mpeg"/>
+    </item>
+  </channel>
+</rss>

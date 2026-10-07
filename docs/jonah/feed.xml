@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Calvary Castle Rock — Jonah Archive</title>
+    <link>https://calvarycr.com/archives/jonah/</link>
+    <description>Unofficial RSS wrapper for the public Calvary Castle Rock Jonah teaching archive.</description>
+    <language>en-us</language>
+    <image>
+      <url>https://calvarycr.com/wp-content/uploads/2020/06/message-bumper-jonah-700x394.jpg</url>
+      <title>Calvary Castle Rock — Jonah Archive</title>
+      <link>https://calvarycr.com/archives/jonah/</link>
+    </image>
+    <itunes:image href="https://calvarycr.com/wp-content/uploads/2020/06/message-bumper-jonah-700x394.jpg"/>
+    <itunes:author>Pastor Dave Love / Calvary Castle Rock</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>Jonah Part 3</title>
+      <link>https://calvarycr.com/jonah-pt-3/</link>
+      <guid isPermaLink="false">60c4213d5fbf3d94f538387bb7aec02ddab38d44acdab519ec06c497a36549fb</guid>
+      <pubDate>Sat, 09 May 2020 20:03:30 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/jonah-pt-3/</description>
+      <enclosure url="http://calvarycr.com/abiding/jonah/20200509-6pm.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Jonah Part 2</title>
+      <link>https://calvarycr.com/jonah-pt-2/</link>
+      <guid isPermaLink="false">0259e0439173a10feb5d50e0d7ee58b91497e2485961574b2e6e0dfe1221b9d5</guid>
+      <pubDate>Sun, 03 May 2020 20:00:47 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/jonah-pt-2/</description>
+      <enclosure url="http://calvarycr.com/abiding/jonah/20200503-11am.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Jonah Part 1</title>
+      <link>https://calvarycr.com/jonah-pt-1/</link>
+      <guid isPermaLink="false">ae90753b2a174d7917cc7c8933bf677b60035685817ee370349578df8115f6bb</guid>
+      <pubDate>Sun, 26 Apr 2020 19:46:58 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/jonah-pt-1/</description>
+      <enclosure url="http://calvarycr.com/abiding/jonah/20200426-11am.mp3" length="0" type="audio/mpeg"/>
+    </item>
+  </channel>
+</rss>

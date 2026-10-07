@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Calvary Castle Rock — 1 Samuel Archive</title>
+    <link>https://calvarycr.com/archives/1-samuel/</link>
+    <description>Unofficial RSS wrapper for the public Calvary Castle Rock 1 Samuel teaching archive.</description>
+    <language>en-us</language>
+    <image>
+      <url>https://calvarycr.com/wp-content/uploads/2014/09/457233372-700x394.jpg</url>
+      <title>Calvary Castle Rock — 1 Samuel Archive</title>
+      <link>https://calvarycr.com/archives/1-samuel/</link>
+    </image>
+    <itunes:image href="https://calvarycr.com/wp-content/uploads/2014/09/457233372-700x394.jpg"/>
+    <itunes:author>Calvary Castle Rock</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>1 Samuel 30-2 Samuel 1:16</title>
+      <link>https://calvarycr.com/1-samuel-30-2-samuel-116/</link>
+      <guid isPermaLink="false">610472e127a0f53f338ac60bd6ed61227f7390413ee57a7b4efb4afde2d2007f</guid>
+      <pubDate>Wed, 03 Sep 2014 06:00:00 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/1-samuel-30-2-samuel-116/</description>
+      <enclosure url="http://calvarycr.com/abiding/1samuel/20140903.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>1 Samuel 30-31</title>
+      <link>https://calvarycr.com/1-samuel-30-31/</link>
+      <guid isPermaLink="false">4a794a89f76c1eaed0928e63d39f7e9de3b38a62e55c15dcfec42c39882176cf</guid>
+      <pubDate>Wed, 15 May 2013 06:00:00 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/1-samuel-30-31/</description>
+      <enclosure url="http://calvarycr.com/abiding/1samuel/051513.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>1 Samuel 28-29</title>
+      <link>https://calvarycr.com/1-samuel-28-29/</link>
+      <guid isPermaLink="false">d91bbfe932f9d0c16ccf1b74ed718d0a3ed171aad54db37474938b7dbda09253</guid>
+      <pubDate>Wed, 24 Apr 2013 06:00:00 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/1-samuel-28-29/</description>
+      <enclosure url="http://calvarycr.com/abiding/1samuel/042413.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>1 Samuel 26-27</title>
+      <link>https://calvarycr.com/1-samuel-26-27/</link>
+      <guid isPermaLink="false">d1a6e17d9ffe369abdeacd632b530a6f77c40b1ed0f8329f87fdc633c41dddff</guid>
+      <pubDate>Wed, 10 Apr 2013 06:00:00 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/1-samuel-26-27/</description>
+      <enclosure url="http://calvarycr.com/abiding/1samuel/041013.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>1 Samuel 25</title>
+      <link>https://calvarycr.com/1-samuel-25/</link>
+      <guid isPermaLink="false">bee190b24c64565d608d011fa9901260d7a666f510f266a27237be39052ee2fb</guid>
+      <pubDate>Wed, 27 Mar 2013 06:00:00 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/1-samuel-25/</description>
+      <enclosure url="http://calvarycr.com/abiding/1samuel/032713.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>1 Samuel 24</title>
+      <link>https://calvarycr.com/1-samuel-24/</link>
+      <guid isPermaLink="false">c6eb52b5561b00433bfaf3dd563711ba4be3a5c221f3a584cf30c4ed904eaa83</guid>
+      <pubDate>Wed, 20 Mar 2013 06:00:00 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/1-samuel-24/</description>
+      <enclosure url="http://calvarycr.com/abiding/1samuel/032013.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>1 Samuel 23</title>
+      <link>https://calvarycr.com/1-samuel-23/</link>
+      <guid isPermaLink="false">00e3ca80ca79d76bbd52abf956ffa0e429d567c942aa299eb9cd774ae24de770</guid>
+      <pubDate>Wed, 06 Mar 2013 07:00:00 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/1-samuel-23/</description>
+      <enclosure url="http://calvarycr.com/abiding/1samuel/030613.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>1 Samuel 22</title>
+      <link>https://calvarycr.com/1-samuel-22/</link>
+      <guid isPermaLink="false">6847aa67b706e3407b0195fe4986e16b97a0d0c455c602a5c477c4a4be896d03</guid>
+      <pubDate>Wed, 27 Feb 2013 07:00:00 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/1-samuel-22/</description>
+      <enclosure url="http://calvarycr.com/abiding/1samuel/022713.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>1 Samuel 21</title>
+      <link>https://calvarycr.com/1-samuel-21/</link>
+      <guid isPermaLink="false">c1c3aabbb675315f96afcacbdc52687a01b16949d0e79a81548eb5a5993cb223</guid>
+      <pubDate>Wed, 20 Feb 2013 07:00:00 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/1-samuel-21/</description>
+      <enclosure url="http://calvarycr.com/abiding/1samuel/022013.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>1 Samuel 20</title>
+      <link>https://calvarycr.com/1-samuel-20/</link>
+      <guid isPermaLink="false">d7e0a682363612c7124165372ebaddd7ee96028c9e7f744acd7ede7bf3f8d545</guid>
+      <pubDate>Wed, 13 Feb 2013 07:00:00 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/1-samuel-20/</description>
+      <enclosure url="http://calvarycr.com/abiding/1samuel/021313.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>1 Samuel 19</title>
+      <link>https://calvarycr.com/1-samuel-19/</link>
+      <guid isPermaLink="false">5108c1202fd44121841a21f8de76856cb8d121751c252a71d6c657da01069d66</guid>
+      <pubDate>Wed, 06 Feb 2013 07:00:00 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/1-samuel-19/</description>
+      <enclosure url="http://calvarycr.com/abiding/1samuel/020613.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>1 Samuel 18</title>
+      <link>https://calvarycr.com/1-samuel-18/</link>
+      <guid isPermaLink="false">756188eb4da9dee193ea83e2af2a060290c81329757ce5f69d55876dd4b01345</guid>
+      <pubDate>Wed, 30 Jan 2013 07:00:00 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/1-samuel-18/</description>
+      <enclosure url="http://calvarycr.com/abiding/1samuel/013013.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>1 Samuel 17</title>
+      <link>https://calvarycr.com/1-samuel-17/</link>
+      <guid isPermaLink="false">5c87d76e8a30bfaa44c1390904575acb0a256e8c9d367de0598a7276ae89aa78</guid>
+      <pubDate>Wed, 23 Jan 2013 07:00:00 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/1-samuel-17/</description>
+      <enclosure url="http://calvarycr.com/abiding/1samuel/012313.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>1 Samuel 16</title>
+      <link>https://calvarycr.com/1-samuel-16/</link>
+      <guid isPermaLink="false">2ac5cca5628ff6bf857214bf1c51531ff5d6bb9da7ca9004781fde80e5078115</guid>
+      <pubDate>Wed, 16 Jan 2013 07:00:00 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/1-samuel-16/</description>
+      <enclosure url="http://calvarycr.com/abiding/1samuel/011613.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>1 Samuel 15</title>
+      <link>https://calvarycr.com/1-samuel-15/</link>
+      <guid isPermaLink="false">51ed9da3d9b98ef79eae963ef08ceddee831acb17243d684d853791a2a1ff7f5</guid>
+      <pubDate>Wed, 12 Dec 2012 07:00:00 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/1-samuel-15/</description>
+      <enclosure url="http://calvarycr.com/abiding/1samuel/121212.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>1 Samuel 13:16-14</title>
+      <link>https://calvarycr.com/1-samuel-1316-14/</link>
+      <guid isPermaLink="false">c710e14a648deb5fc7424d331b2dc8991d44116efdc898ebf84381ff0d6e46d0</guid>
+      <pubDate>Wed, 28 Nov 2012 07:00:00 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/1-samuel-1316-14/</description>
+      <enclosure url="http://calvarycr.com/abiding/1samuel/112812.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>1 Samuel 11</title>
+      <link>https://calvarycr.com/1-samuel-11/</link>
+      <guid isPermaLink="false">26b1ed42b5038a15e96c79cb7ea75e1ae40679e9c33c72dc57aad1108e6a857b</guid>
+      <pubDate>Wed, 14 Nov 2012 07:00:00 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/1-samuel-11/</description>
+      <enclosure url="http://calvarycr.com/abiding/1samuel/111412.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>1 Samuel 12-13:15</title>
+      <link>https://calvarycr.com/1-samuel-12-1315/</link>
+      <guid isPermaLink="false">cd6e279a20b99669e11a192d56d68b44e4c1a3c691ea0f5b69380fd864cf31d9</guid>
+      <pubDate>Mon, 12 Nov 2012 07:00:00 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/1-samuel-12-1315/</description>
+      <enclosure url="http://calvarycr.com/abiding/1samuel/112112.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>1 Samuel 10</title>
+      <link>https://calvarycr.com/1-samuel-10/</link>
+      <guid isPermaLink="false">8bfbbe848b4a0211e0a7e8020a6356e689b4ae7c348fc539c62ceefbae434d0d</guid>
+      <pubDate>Tue, 30 Oct 2012 06:00:00 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/1-samuel-10/</description>
+      <enclosure url="http://calvarycr.com/abiding/1samuel/103112.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>1 Samuel 9</title>
+      <link>https://calvarycr.com/1-samuel-9/</link>
+      <guid isPermaLink="false">97ab4326143ae74e66ca6ef15c0fcfe394be692e81e94d70e44602c16dd19ede</guid>
+      <pubDate>Wed, 24 Oct 2012 06:00:00 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/1-samuel-9/</description>
+      <enclosure url="http://calvarycr.com/abiding/1samuel/102412.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>1 Samuel 8</title>
+      <link>https://calvarycr.com/1-samuel-8/</link>
+      <guid isPermaLink="false">ff3c1597b444a2b86e00b8958c562baf571e4ff147b2b17eb795d59a0e864b75</guid>
+      <pubDate>Wed, 10 Oct 2012 06:00:00 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/1-samuel-8/</description>
+      <enclosure url="http://calvarycr.com/abiding/1samuel/101012.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>1 Samuel 7</title>
+      <link>https://calvarycr.com/1-samuel-7/</link>
+      <guid isPermaLink="false">bd96ecbb6aafd8b45b957d62d78622d5f799b5ae7e4d5f530a42d3ca6aa23fbd</guid>
+      <pubDate>Wed, 03 Oct 2012 06:00:00 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/1-samuel-7/</description>
+      <enclosure url="http://calvarycr.com/abiding/1samuel/100312.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>1 Samuel 5-6</title>
+      <link>https://calvarycr.com/1-samuel-5-6/</link>
+      <guid isPermaLink="false">3244680e8f4210c7b0cda2179f72dd2860ee0f3c07673e576daaf7ec5180aba9</guid>
+      <pubDate>Sat, 29 Sep 2012 06:00:00 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/1-samuel-5-6/</description>
+      <enclosure url="http://calvarycr.com/abiding/1samuel/092612.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>1 Samuel 4</title>
+      <link>https://calvarycr.com/1-samuel-4/</link>
+      <guid isPermaLink="false">c281019aeca41988656c664fe3b77b394171e294373aadbcde5dc95ec8cde2f8</guid>
+      <pubDate>Wed, 19 Sep 2012 06:00:00 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/1-samuel-4/</description>
+      <enclosure url="http://calvarycr.com/abiding/1samuel/091912.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>1 Samuel 3</title>
+      <link>https://calvarycr.com/1-samuel-3/</link>
+      <guid isPermaLink="false">82a6c19cbe50b415379a4c7e9b55b0912a865f0306f728341acdd1dbc4fd9fc2</guid>
+      <pubDate>Wed, 12 Sep 2012 06:00:00 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/1-samuel-3/</description>
+      <enclosure url="http://calvarycr.com/abiding/1samuel/091212.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>1 Samuel 2:22-36</title>
+      <link>https://calvarycr.com/1-samuel-222-36/</link>
+      <guid isPermaLink="false">bb411f490d0dae286c7a5204151c9cfa49df3970759891eb3885d2391d0e158d</guid>
+      <pubDate>Wed, 05 Sep 2012 06:00:00 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/1-samuel-222-36/</description>
+      <enclosure url="http://calvarycr.com/abiding/1samuel/090512.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>1 Samuel 2:1-21</title>
+      <link>https://calvarycr.com/1-samuel-21-21/</link>
+      <guid isPermaLink="false">ce9f5c4c95475fa2f3490447b9b9c25b9b62afd1e38b9e52642ac783abb5cb7e</guid>
+      <pubDate>Wed, 22 Aug 2012 06:00:00 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/1-samuel-21-21/</description>
+      <enclosure url="http://calvarycr.com/abiding/1samuel/082212.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>1 Samuel 1</title>
+      <link>https://calvarycr.com/1-samuel-1/</link>
+      <guid isPermaLink="false">0b41e8bd33f3ae268b64b3d8e635e176a5939348465c4d2481b80739a8ff437b</guid>
+      <pubDate>Wed, 01 Aug 2012 06:00:00 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/1-samuel-1/</description>
+      <enclosure url="http://calvarycr.com/abiding/1samuel/080112.mp3" length="0" type="audio/mpeg"/>
+    </item>
+  </channel>
+</rss>

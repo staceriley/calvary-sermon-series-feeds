@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Calvary Castle Rock — Habakkuk Archive</title>
+    <link>https://calvarycr.com/archives/habakkuk/</link>
+    <description>Unofficial RSS wrapper for the public Calvary Castle Rock Habakkuk teaching archive.</description>
+    <language>en-us</language>
+    <image>
+      <url>https://calvarycr.com/wp-content/uploads/habakkuk-banner-700x441.png</url>
+      <title>Calvary Castle Rock — Habakkuk Archive</title>
+      <link>https://calvarycr.com/archives/habakkuk/</link>
+    </image>
+    <itunes:image href="https://calvarycr.com/wp-content/uploads/habakkuk-banner-700x441.png"/>
+    <itunes:author>Calvary Castle Rock</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>Habakkuk 3</title>
+      <link>https://calvarycr.com/habakkuk-3/</link>
+      <guid isPermaLink="false">dc928f01a7fbc93547e69c99da537bbaab6abc6a0b2d4aef49bf8b9564490900</guid>
+      <pubDate>Thu, 29 Jan 2026 16:29:20 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/habakkuk-3/</description>
+      <enclosure url="https://www.calvarycr.com/abiding/habakkuk/20260128.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Habakkuk 2:5-20</title>
+      <link>https://calvarycr.com/habakkuk-25-20/</link>
+      <guid isPermaLink="false">6c773edc2849aa2ce918a1bfde9b0bb05171668bc64aca1107859948ebb9a78e</guid>
+      <pubDate>Wed, 21 Jan 2026 16:50:31 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/habakkuk-25-20/</description>
+      <enclosure url="https://www.calvarycr.com/abiding/habakkuk/20260121.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Habakkuk 2:1-4</title>
+      <link>https://calvarycr.com/habakkuk-2_1-20/</link>
+      <guid isPermaLink="false">4e705a7dcd0265dbbb99791b8310a56aac0ae3f53b14ef04e67fcb8b4e1ae38e</guid>
+      <pubDate>Wed, 14 Jan 2026 19:13:50 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/habakkuk-2_1-20/</description>
+      <enclosure url="https://www.calvarycr.com/abiding/habakkuk/20260114.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Habakkuk 1:1-17</title>
+      <link>https://calvarycr.com/habakkuk_1_1-17/</link>
+      <guid isPermaLink="false">65f108431122afd9cad974ddae2a7d1c76dc881914608189f2e4accea0043e31</guid>
+      <pubDate>Thu, 08 Jan 2026 04:36:22 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/habakkuk_1_1-17/</description>
+      <enclosure url="https://www.calvarycr.com/abiding/habakkuk/20260107.mp3" length="0" type="audio/mpeg"/>
+    </item>
+  </channel>
+</rss>

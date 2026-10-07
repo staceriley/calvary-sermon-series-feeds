@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Calvary Castle Rock — Hosea Archive</title>
+    <link>https://calvarycr.com/archives/hosea/</link>
+    <description>Unofficial RSS wrapper for the public Calvary Castle Rock Hosea teaching archive.</description>
+    <language>en-us</language>
+    <image>
+      <url>https://calvarycr.com/wp-content/uploads/2018/02/hosea_web.jpg</url>
+      <title>Calvary Castle Rock — Hosea Archive</title>
+      <link>https://calvarycr.com/archives/hosea/</link>
+    </image>
+    <itunes:image href="https://calvarycr.com/wp-content/uploads/2018/02/hosea_web.jpg"/>
+    <itunes:author>Pastor Dave Love / Calvary Castle Rock</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>Hosea 13:5-14</title>
+      <link>https://calvarycr.com/hosea-13_5-14/</link>
+      <guid isPermaLink="false">496b41021b17ae9d10d21508b1ac04d07b0cedd8fcb0a28591b802e8e2cb354d</guid>
+      <pubDate>Thu, 24 May 2018 00:00:21 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/hosea-13_5-14/</description>
+      <enclosure url="http://calvarycr.com/abiding/hosea/20180523.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Hosea 12-13:4</title>
+      <link>https://calvarycr.com/hosea-12-3_4/</link>
+      <guid isPermaLink="false">5223e20898a6889cbeb5387e4e3ca0c58037bb78cfad51c9e1006df4e7378a39</guid>
+      <pubDate>Thu, 17 May 2018 00:00:04 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/hosea-12-3_4/</description>
+      <enclosure url="http://calvarycr.com/abiding/hosea/20180516.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Hosea 11</title>
+      <link>https://calvarycr.com/hosea-11/</link>
+      <guid isPermaLink="false">752de39689ccee45a52a96677b3d3aaa70a07a9bb5f25a6a32db554e189a29fe</guid>
+      <pubDate>Thu, 10 May 2018 00:00:35 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/hosea-11/</description>
+      <enclosure url="http://calvarycr.com/abiding/hosea/20180509.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Hosea 10</title>
+      <link>https://calvarycr.com/hosea-10/</link>
+      <guid isPermaLink="false">103d00bacdbd939c0c8f7adc8af7d0cec824fbffb55b4f6a7dc3c88b47cc7368</guid>
+      <pubDate>Thu, 03 May 2018 00:00:41 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/hosea-10/</description>
+      <enclosure url="http://calvarycr.com/abiding/hosea/20180502.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Hosea 9</title>
+      <link>https://calvarycr.com/hosea-9/</link>
+      <guid isPermaLink="false">c5eb449f9982ccece9b72f470c63fcfcd0557661eb90cf5e84887fd73bdd5860</guid>
+      <pubDate>Thu, 26 Apr 2018 00:00:10 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/hosea-9/</description>
+      <enclosure url="http://calvarycr.com/abiding/hosea/20180425.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Hosea 8</title>
+      <link>https://calvarycr.com/hosea-8/</link>
+      <guid isPermaLink="false">33df5beedf677c6f6cccf942496b82a2fa8feff4a167fbb5277f7fe37782b9cb</guid>
+      <pubDate>Thu, 19 Apr 2018 01:00:09 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/hosea-8/</description>
+      <enclosure url="http://calvarycr.com/abiding/hosea/20180418.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Hosea 6-7</title>
+      <link>https://calvarycr.com/hosea-6-7/</link>
+      <guid isPermaLink="false">0c30a86b39228ed088ceb33d1021f1a45daeec1149192be27419d0dddaa5d33f</guid>
+      <pubDate>Thu, 12 Apr 2018 00:00:57 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/hosea-6-7/</description>
+      <enclosure url="http://calvarycr.com/abiding/hosea/20180411.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Hosea 5</title>
+      <link>https://calvarycr.com/hosea-5/</link>
+      <guid isPermaLink="false">167c05f5df3ca8a54d69b7480d287265e10b54ec38142b31639d9bb4f310aaf3</guid>
+      <pubDate>Thu, 05 Apr 2018 00:00:19 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/hosea-5/</description>
+      <enclosure url="http://calvarycr.com/abiding/hosea/20180404.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Hosea 4</title>
+      <link>https://calvarycr.com/hosea-4/</link>
+      <guid isPermaLink="false">2fb3c4c317d6ca053b490e30c78ba96e50523476cd7d061068a49a266bd10399</guid>
+      <pubDate>Wed, 21 Mar 2018 23:00:02 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/hosea-4/</description>
+      <enclosure url="http://calvarycr.com/abiding/hosea/20180321.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Hosea 3</title>
+      <link>https://calvarycr.com/hosea-3/</link>
+      <guid isPermaLink="false">536343033bd40af3a27913560dc5c1d553cb4cd15173ce43192e2ebf65aefc7e</guid>
+      <pubDate>Wed, 14 Mar 2018 23:00:45 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/hosea-3/</description>
+      <enclosure url="http://calvarycr.com/abiding/hosea/20180314.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Hosea 2</title>
+      <link>https://calvarycr.com/hosea-2/</link>
+      <guid isPermaLink="false">aaf1481e62193b53b14808f6111baab1d5c5dfe5de4108ab307054176d12afce</guid>
+      <pubDate>Thu, 22 Feb 2018 00:00:00 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/hosea-2/</description>
+      <enclosure url="http://calvarycr.com/abiding/hosea/20180221.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Hosea 1-2:1</title>
+      <link>https://calvarycr.com/hosea-1-21/</link>
+      <guid isPermaLink="false">8cf382de35f1c4896a65c85bfc3ce6a349ebfb6eb5e6695413a569d32808ac02</guid>
+      <pubDate>Thu, 15 Feb 2018 00:00:05 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/hosea-1-21/</description>
+      <enclosure url="http://calvarycr.com/abiding/hosea/20180214.mp3" length="0" type="audio/mpeg"/>
+    </item>
+  </channel>
+</rss>

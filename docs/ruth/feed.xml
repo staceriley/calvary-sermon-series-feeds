@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Calvary Castle Rock — Ruth Archive</title>
+    <link>https://calvarycr.com/archives/ruth/</link>
+    <description>Unofficial RSS wrapper for the public Calvary Castle Rock Ruth teaching archive.</description>
+    <language>en-us</language>
+    <image>
+      <url>https://calvarycr.com/wp-content/uploads/2011/02/teaching-smallBanner-ruth.jpg</url>
+      <title>Calvary Castle Rock — Ruth Archive</title>
+      <link>https://calvarycr.com/archives/ruth/</link>
+    </image>
+    <itunes:image href="https://calvarycr.com/wp-content/uploads/2011/02/teaching-smallBanner-ruth.jpg"/>
+    <itunes:author>Pastor Dave Love / Calvary Castle Rock</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>Ruth 4</title>
+      <link>https://calvarycr.com/ruth-4/</link>
+      <guid isPermaLink="false">b4c44b2ae472e1e6eda49a8f1835a981ae344db836131152613a8b1dc49a4703</guid>
+      <pubDate>Wed, 16 Feb 2011 07:00:00 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/ruth-4/</description>
+      <enclosure url="https://calvarycr.com/abiding/ruth/021611h.mp3?_=1" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Ruth 2:18-3:18</title>
+      <link>https://calvarycr.com/ruth-218-318/</link>
+      <guid isPermaLink="false">64f713e9d8fa96159fd6bc89f91961f4d008673e62e1ee2bcfa11d6645113f6a</guid>
+      <pubDate>Wed, 09 Feb 2011 07:00:00 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/ruth-218-318/</description>
+      <enclosure url="https://calvarycr.com/abiding/ruth/020911h.mp3?_=1" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Ruth 2:1-19</title>
+      <link>https://calvarycr.com/ruth-21-19/</link>
+      <guid isPermaLink="false">d49a6b420a41a6f00f2f52dc246a4369121558feb0cb75b1e43615ee59c99292</guid>
+      <pubDate>Wed, 26 Jan 2011 07:00:00 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/ruth-21-19/</description>
+      <enclosure url="https://calvarycr.com/abiding/ruth/012611h.mp3?_=1" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Ruth 1:1-22</title>
+      <link>https://calvarycr.com/ruth-11-22/</link>
+      <guid isPermaLink="false">c64b6df6817cd3ef8740a4b8eb454d84173caed7c358317cab8b32ed60887583</guid>
+      <pubDate>Wed, 12 Jan 2011 07:00:00 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/ruth-11-22/</description>
+      <enclosure url="https://calvarycr.com/abiding/ruth/011211h.mp3?_=1" length="0" type="audio/mpeg"/>
+    </item>
+  </channel>
+</rss>

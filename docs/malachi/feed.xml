@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Calvary Castle Rock — Malachi Archive</title>
+    <link>https://calvarycr.com/archives/malachi/</link>
+    <description>Unofficial RSS wrapper for the public Calvary Castle Rock Malachi teaching archive.</description>
+    <language>en-us</language>
+    <image>
+      <url>https://staceriley.github.io/calvary-sermon-series-feeds/malachi/cover.jpg</url>
+      <title>Calvary Castle Rock — Malachi Archive</title>
+      <link>https://calvarycr.com/archives/malachi/</link>
+    </image>
+    <itunes:image href="https://staceriley.github.io/calvary-sermon-series-feeds/malachi/cover.jpg"/>
+    <itunes:author>Pastor Dave Love / Calvary Castle Rock</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>Malachi 3:13-4</title>
+      <link>https://calvarycr.com/malachi-313-4/</link>
+      <guid isPermaLink="false">7bded66eff2a5ba28a16ab4e0d8fef624eff6ca0c95edae3cf6568f5fa34558d</guid>
+      <pubDate>Wed, 25 May 2016 06:00:00 -0700</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/malachi-313-4/</description>
+      <enclosure url="http://calvarycr.com/abiding/malachi/20160525.mp3" length="0" type="audio/mpeg"/>
+      <itunes:image href="https://staceriley.github.io/calvary-sermon-series-feeds/malachi/cover.jpg"/>
+    </item>
+    <item>
+      <title>Malachi 3:1-12</title>
+      <link>https://calvarycr.com/malachi-31-12/</link>
+      <guid isPermaLink="false">7384e962463ca1aaab0dfd56f2912e4e36dc365d1611bd6ae5ddcaa91d9c2531</guid>
+      <pubDate>Wed, 11 May 2016 06:00:00 -0700</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/malachi-31-12/</description>
+      <enclosure url="http://calvarycr.com/abiding/malachi/20160511.mp3" length="0" type="audio/mpeg"/>
+      <itunes:image href="https://staceriley.github.io/calvary-sermon-series-feeds/malachi/cover.jpg"/>
+    </item>
+    <item>
+      <title>Malachi 2:8-17</title>
+      <link>https://calvarycr.com/malachi-28-17/</link>
+      <guid isPermaLink="false">49cfef8303bad25f92916cf9dd34d6790087e34983cbf9c2e5cd4568f608df7a</guid>
+      <pubDate>Wed, 06 Apr 2016 06:00:00 -0700</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/malachi-28-17/</description>
+      <enclosure url="http://calvarycr.com/abiding/malachi/20160406.mp3" length="0" type="audio/mpeg"/>
+      <itunes:image href="https://staceriley.github.io/calvary-sermon-series-feeds/malachi/cover.jpg"/>
+    </item>
+    <item>
+      <title>Malachi 2:1-7</title>
+      <link>https://calvarycr.com/malachi-21-7/</link>
+      <guid isPermaLink="false">f6bc3708f35604e7cf1261d70266ebeede1d2f629f127090677d7e2acf5e1573</guid>
+      <pubDate>Wed, 30 Mar 2016 06:00:00 -0700</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/malachi-21-7/</description>
+      <enclosure url="http://calvarycr.com/abiding/malachi/20160330.mp3" length="0" type="audio/mpeg"/>
+      <itunes:image href="https://staceriley.github.io/calvary-sermon-series-feeds/malachi/cover.jpg"/>
+    </item>
+    <item>
+      <title>Malachi 1:6-14</title>
+      <link>https://calvarycr.com/malachi-16-14/</link>
+      <guid isPermaLink="false">df45c7205bb78bff3e10e8f86543a7a801be625f7d4f10192766349e8510d2aa</guid>
+      <pubDate>Wed, 16 Mar 2016 06:00:00 -0700</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/malachi-16-14/</description>
+      <enclosure url="http://calvarycr.com/abiding/malachi/20160316.mp3" length="0" type="audio/mpeg"/>
+      <itunes:image href="https://staceriley.github.io/calvary-sermon-series-feeds/malachi/cover.jpg"/>
+    </item>
+    <item>
+      <title>Malachi 1:1-5</title>
+      <link>https://calvarycr.com/malachi-11-5/</link>
+      <guid isPermaLink="false">6aa6341a75593f958152e81d267a74ac6766662c1992aecd0c8ff04bf5bb3c1e</guid>
+      <pubDate>Wed, 09 Mar 2016 07:00:00 -0700</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/malachi-11-5/</description>
+      <enclosure url="http://calvarycr.com/abiding/malachi/20160309.mp3" length="0" type="audio/mpeg"/>
+      <itunes:image href="https://staceriley.github.io/calvary-sermon-series-feeds/malachi/cover.jpg"/>
+    </item>
+  </channel>
+</rss>

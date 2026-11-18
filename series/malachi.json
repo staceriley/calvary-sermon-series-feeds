@@ -1,0 +1,19 @@
+{
+  "slug": "malachi",
+  "feed_title": "Calvary Castle Rock \u2014 Malachi Archive",
+  "archive_url": "https://calvarycr.com/archives/malachi/",
+  "author": "Pastor Dave Love / Calvary Castle Rock",
+  "description": "Unofficial RSS wrapper for the public Calvary Castle Rock Malachi teaching archive.",
+  "match_keywords": [
+    "malachi"
+  ],
+  "minimum_episode_count": 5,
+  "expected_titles": [
+    "Malachi 1:1-5",
+    "Malachi 1:6-14",
+    "Malachi 2:1-7",
+    "Malachi 2:8-17",
+    "Malachi 3:1-12",
+    "Malachi 3:13-4"
+  ]
+}
